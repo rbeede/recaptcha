@@ -1,0 +1,1008 @@
+Looking in '..\Test Results Data\reCaptcha, antirecaptcha, 2010-11-03'...Found 1000 files
+OCR Contents	Expected Valid Result	Match Type
+dim aeonars	(1482 aeonars	PARTIAL
+1317 erenlv	(317 erenty	NONE
+lsvhethcv addiiwrtmi	(whether addshomi	NONE
+103 aemm	103 denalli	PARTIAL
+l061zescor	106, zestot	NONE
+1021 mama	10;27 athousee	NONE
+lllerffwefs	117, grencerg	NONE
+lllbbfmizim	122, banition	NONE
+143 iacheasho	143 scheasho	PARTIAL
+7450 dderoe	1450 elderce	NONE
+l481wn1ze	148, conize	NONE
+152 moms	152 hoolls	PARTIAL
+16122 whisair	1612 whisair	PARTIAL
+1615 uoivze	161; uphuge	NONE
+meesrsfrm	164, destsman	NONE
+  mxwm	1663; commanot	NONE
+17071 duaniola	1707. duartion	NONE
+1752 vifllgoer	1757 rifugogr	NONE
+offtivh	1761, offtion	NONE
+rffrailfzbred	177, atrabred	NONE
+l79wa11ess	179 maness	NONE
+l79fo0veni	179, coveni	NONE
+17911 umm	1791, kinders	NONE
+lmzbruwved	187; browed	NONE
+1899037139322	1890- complame	NONE
+1943 cxuinse	1945. quinse	NONE
+f9a6zeas11e	1956 leasile	NONE
+1  ukfarvel	1962, ukervel	NONE
+19813 wcnem	1981; lacherd	NONE
+l9823arancur	1982; draccur	NONE
+edennmslaor	2 enmshor	NONE
+lceereve	201; keereve	NONE
+201 heficiilie	20I heaviane	NONE
+lllmveen	211 giogen	NONE
+bnaediom	288, Ungedion	NONE
+30181 entooe	30I8, entoce	NONE
+3141 clfllwiii	314, cowiti	NONE
+3154 wricvy	315, wricay	NONE
+3651 woonodaw	365, woonodaw	PARTIAL
+567abi8fmem	367, leigmena	NONE
+	405 inverisi	NONE
+45318553153	42-8 lajerida	NONE
+464waes	464 bottes	NONE
+wgoorxiafls	635602 conials	NONE
+658 wcolzm	658 bilcolme	PARTIAL
+0426 0ut845d1	7-26 outasort	NONE
+ alfbrwd	78-80 alforwd	NONE
+aadvir 1782	aadvir 1782	COMPLETE
+fwgmaan eanomane	Aagmaan panomane	NONE
+fibezki 1851510	Abeid lesicho	NONE
+ablafhl initially	ablathl initially	PARTIAL
+	ablewid process	NONE
+ahkxbta senior	aboubta senior	PARTIAL
+about x12htffh	about nanten	PARTIAL
+above  	above pringoor	PARTIAL
+dbfflseh desirable	Abrosen desirable	PARTIAL
+dffmkffclif gfnxxs	accurate gructs	NONE
+acgatimsmne	acgatind soone	NONE
+	acid hometsk	NONE
+aclmarci frieres	ackwardi Freres	NONE
+acluarls not	acluarls not	COMPLETE
+adams 753775315	adeases -	NONE
+aderri im	aderri m)	PARTIAL
+adeteved actions	adeteed action,	NONE
+acmrys from	adonees from	PARTIAL
+663155 7988	aectlays was	NONE
+areibanlalif	afelhan larg	NONE
+5386m53501lf	aftedits sent	NONE
+lftercnrwvi	after cortovi	NONE
+335 cukieffs	after culdeffy	NONE
+iifter fiowns	after flowns	NONE
+afieme crystalsi	afterne crystals,	NONE
+lgelgaxl	age gatorto	NONE
+afgeelia rumor	ageelia Turner	NONE
+931191111 province	agerwil province	PARTIAL
+ahrocfmg other	ahroting other	PARTIAL
+gina news	ailori news	PARTIAL
+airlflx f	airiel floor.	NONE
+aifsveedoxnsmock	airspeed opsynock	NONE
+alfmvrn thrfofo	ALBERTI throfo	NONE
+filcalai trosore	Alcala trosore	PARTIAL
+fslcbiades dersuirsf	Alcibiades denuity	NONE
+alibd feadeifllf	aLibel feadetcy	NONE
+311 quellies	all quentes	NONE
+34501731009	also. putcon	NONE
+although lockated	although lockated	COMPLETE
+rlmfrifah carnxiiv	American cannuiv	NONE
+arnnarlm office	amparlot office	PARTIAL
+and bobiececa	and bobleced	PARTIAL
+and flaraqany	and Gararany	PARTIAL
+fwduiwro	and hippro	NONE
+and isfhofiio	and ischosio	PARTIAL
+and fwsin	and Jorgin	PARTIAL
+arxirfiiiilfi	and milsba	NONE
+4120 707611772	AND rovenme	NONE
+md 5336013	and siatiou	NONE
+and 55118168	and stuales	PARTIAL
+and tedaimi	and tedgioni	PARTIAL
+and 1351333	and tifflugg	PARTIAL
+andturxweirier	and turneing	NONE
+madqlled should	Andqued should	PARTIAL
+hndrfi sormsid	Andre gonnsid	NONE
+announced wemon	announced twenion	PARTIAL
+annsitz rdictiill	anositz reaction,	NONE
+any midi	any aticti	PARTIAL
+any mga	any binglei	PARTIAL
+anymjy v8f13320d	anybody ventoroci	NONE
+apart 9q118f0m3f	apart equetomy	PARTIAL
+alllletive real	appetive real	PARTIAL
+4919250 16621	Appetu 1662,	NONE
+apsicese 5y8i8l11	apsicese system,	PARTIAL
+axdereils 551155	ardereps This	NONE
+areseiotstm	are setobstm	NONE
+are tmmvhi	are throwhi	PARTIAL
+30116 unames	are unaries	NONE
+arevoohowf	arevoo how,	NONE
+arnmiifir	aribus the	NONE
+ulfifmelhns	atifine this	NONE
+augheiaw jiwbfuie	aughelaw friends	NONE
+auhixnilvax gherapisr	aunimpar therapist	NONE
+ssvaine hers	awaine Aers	NONE
+nwafyl 542331542	away. sualfere	NONE
+aw0rxedy480	awottedy 480	NONE
+laaecuiie ifrfli	baccuffe term	NONE
+wand cliahfi	bacurd cliche	NONE
+b1ff1ifl8r6f5119i	baffling refshei	NONE
+361506 many	balutted many	PARTIAL
+bfmwun ray	banstoun ray	PARTIAL
+barmohce caused	barmonce caused	PARTIAL
+bdfredf homentax	barred; homentase	NONE
+became hawaxent	became hawatent	PARTIAL
+because warmly	because marenly	PARTIAL
+beiore frrupecie	before Trupecie	NONE
+beingsaarasm	being Bearagro	NONE
+belaculi summ	belaculi sunnc	PARTIAL
+belbre for	belbre for	COMPLETE
+bangingrim	berveno fpot.	NONE
+betrill 0017097379	betueu concinna	NONE
+lvyrriig 1113211166	Beytrage lusaned	NONE
+rxwtim has	bitation ftorcs	NONE
+blfwkmed txuraitv	blackened trurdity	NONE
+1500i52th6	Bocide the	NONE
+bvglvmu aummble	bogympt allowable	NONE
+b0l183fih obviatee	bonsain obviates	NONE
+borequed 1981	borequed 1981	COMPLETE
+bormds amnot	borondis cannot	NONE
+boetrnarxi what	bostmand what	PARTIAL
+tiolfla190213135	botchle tion,	NONE
+bouddly 616126	bouddly Clerke	PARTIAL
+bouwary 110129	bourvary now	NONE
+bflegge  	briegge chronic	NONE
+bwwess nfmozfant	bropess important	NONE
+bfqmai ffririfal	broppect Critical	NONE
+blliwflg fferelin	buissing Terezin	NONE
+1911131158 08	bulguis u8	NONE
+wllept i415	bunept n6	NONE
+liirgnera  	Burgers jaissedi	NONE
+but bewrme	but becurze	PARTIAL
+wwf oxygen	butieli Oxygen	NONE
+bvenwes tlenry	bventees Henry	NONE
+  wiufdr	Cadiz wilydt	NONE
+wird eadmer	call'd eadrner	NONE
+called mccitinn	called mccifinv	PARTIAL
+02111363 directly	caluatio directly	PARTIAL
+0011150011 yllwe	camsocu you've	NONE
+candif fly brotle	candidly brotle	PARTIAL
+calmexryused	capperry used	NONE
+carinzc wifrvah	carinac ratervan	NONE
+cawmh nu	carvarin noc	NONE
+if urilf  	cases manatue	NONE
+0353193549 baliwrs	Catalogue bathors	NONE
+caticips compliment	caticips compliment	COMPLETE
+camilsncis	catifin nets	NONE
+00t9sfi0tt622	cats stiotted	NONE
+031139 allwd	cause allead	NONE
+03116851 imcrin	caused ducrin	NONE
+oeeriii gnfiqkwald	ceeria Bruckwald	NONE
+comin irrmcmls	certain imptinly	NONE
+chandra 11311931513	Chambre hambowet	NONE
+charactercxwner	character crainer	NONE
+ebaraderl sontiirs	character. confisrs	NONE
+flifmnou meszain	CHARON onesmin	NONE
+christened lalasen	chastened lapsen	NONE
+0342019 ffdrrgl	checle Redrige	NONE
+chiefiy doursady	chiefly doursady	PARTIAL
+children rnimocer	children. minvocer	NONE
+cvramin 101	chramin IOI	NONE
+cbmmatii silflllhufl	chromatid somphurl	NONE
+011138163 1814	chushia 181,	NONE
+classroom beakeel	classroom. beakeel	PARTIAL
+eliaimxfy from	clighary from	PARTIAL
+wdioil asians	codicil custas	NONE
+ooishere very	coishefe very	PARTIAL
+	colamman have	NONE
+c0iburin2	colboxi II2	NONE
+oriicam sistcrfa	colican sister's	NONE
+ffoileclire 60rre0e	Collective correce	NONE
+0090658 difncamr	colloess difficulty	NONE
+131101155315	COLONEL pronsfus	NONE
+colonies wmrrne	colonies woutne	PARTIAL
+0011121125 dawiommc	comered dicmatione	NONE
+oornfivel notice	comficel notice	PARTIAL
+001111331115 lfdrfif	comments nartif	NONE
+frommerns ieinev	commerns icine.	NONE
+committed plurii	committed plarti	PARTIAL
+eonewm t1x011f911d	conevoth thoufand	NONE
+90365285 gllverf	confines, saverf	NONE
+corlflicfblln lifhcal	conflictum pitlical	NONE
+comcxion lzwenrrs	connexion. laverms	NONE
+considered ganitpe	considered canite	PARTIAL
+0031831101 hllfbffy	construc- hutbory	NONE
+comrary 009215335	contrary comisks	NONE
+qonveying eating	conveying eading	NONE
+3336216559	conxicen exist-	NONE
+aoquis seem	coquis seem	PARTIAL
+coravidg wages	coravidg wages.	PARTIAL
+oomlews 8116	corclews she	NONE
+ooxfeus and	corells and	PARTIAL
+001121102 rsonfsexiillg	corence concerting	NONE
+0af57f8b6l1d31id	cornsor standard	NONE
+corpus mmf	corphis myself.	NONE
+	corrooti minimum	NONE
+wmlpfihg getieme	corrupting Beffence	NONE
+oiiatirissggfp	cotatins step	NONE
+couchfie nomucow	couchee ponoutow	NONE
+wfllzlklan gillemhed	couhman stretched	NONE
+could dilmidi	could chamidi	PARTIAL
+muu 	could whamel	NONE
+0011162 rammed	coulde rezurned	NONE
+wflnitsubm	counitsu beeo-	NONE
+cf1lnt0rt60llr8es	countort couse,	NONE
+cgjnreq and	coupred and	PARTIAL
+oousem 3001133	cousem sooner	NONE
+	cousemo October	NONE
+00001218 her	couthung her	PARTIAL
+0055166 which	coviled which	PARTIAL
+635153 fliilkllfd	craideb assigned	NONE
+612933311 vrprilijl	creatchl Wrath	NONE
+6116953431 0674	crepskyr cers	NONE
+crienwa fbllofwed	crieploa followed	NONE
+cririaipfil	crinitat tctf	NONE
+erisdane skerdsfrs	crisdang sketches	NONE
+fillbvuqsubritlfrd	culbouq subtitled	NONE
+culimff 503306	curious, josped	NONE
+01111811131 3131117619	current. mannere	NONE
+curtain urmrigsy	curtain unticky	PARTIAL
+chsels kecimcavo	cusels Reconcavo	NONE
+mmm interests	custogra interests.	NONE
+691181957 were	daugby were	PARTIAL
+czfzarmse 13ritisifx	dearmse British	NONE
+bec3111b2f inufrfsed	December inuarned	NONE
+dcclararen vr06i0al	declararen prodical	NONE
+aectuesiaken	dectues taken	NONE
+deiisiflce b6681156	densace because	NONE
+mv igfif	Der ifitic	NONE
+demon gamier	dercoo Garnier	NONE
+derink lfmiw	derink FAMILY	PARTIAL
+deseribef female	describe, revale	NONE
+desdriberl iewione	described leatione	NONE
+ raise aocomrne	desperate accourne	NONE
+degdnyfm scffflpfec	destinyin scomprec	NONE
+1151111116 91131513	detourne applai	NONE
+59718142 501119	detuana some	NONE
+53311533 whfirfieki	diandal Wharfield,	NONE
+dfaamvw akeady	diandow already	NONE
+mid ffvfm	didigi even	NONE
+  dfihbtern	difficult denotern	NONE
+hw page	dini perste	NONE
+diniwrt mega	diniturt nega	NONE
+llnndwcegses	Dinnet excesses	NONE
+discovvde  	discowde Gerard	NONE
+disaard mmm	diseard camps.	NONE
+51511591for	disress for	NONE
+difmfids ousnew	distracts onsnew	NONE
+	disua identity	NONE
+diiiuric and	dituric and	PARTIAL
+doctrine waxmte	doctrine wayhts	PARTIAL
+doemls members	doevils members	PARTIAL
+dowenev diocese	dowener diocese.	NONE
+dfillleaadllse	dranead use	NONE
+drevarmswgs	drevanns was	NONE
+arezinu llemove	drezinci Remove	NONE
+	dructi suspen	NONE
+dui wassois	dug waysols	NONE
+d9  hiv	dwommack have	NONE
+eachfruagea	each Tuaded	NONE
+liiaddown land	Eaddown (and	NONE
+eadmine elected	eadmine elected.	PARTIAL
+awndeuntrirla	eaend suntrina.	NONE
+asergis may	easersis pres	NONE
+eobednax which	ectedUst which	PARTIAL
+mega acid	efegil acid	PARTIAL
+efrecti romusts	effect, rofbusts	NONE
+effefrs senteris	effects, senteris	PARTIAL
+915 ioirmy	eht joirmy	NONE
+aqlnzirecirn	eht miretim	NONE
+eirene flelmmfe	eirene departure.	PARTIAL
+emif 8811385811	emir aguisigh	NONE
+6310651 wigtffth	enced' wistorth	NONE
+enezfwem thus	enexpent thus	PARTIAL
+erxtersmg lilfmwnlr	enteryug ROBERT	NONE
+entreiss porin	entreiss Doric	PARTIAL
+	entrodus 21S	NONE
+fpiiwlilllfllbwit	Episcopal rubunt	NONE
+episodeackiega	episode addega	NONE
+erooeet50ll	ercoect son	NONE
+19145 rerinator	eris rednator	NONE
+eruaugle evidences	ernangle evidence,	NONE
+cavity lfivonian	ernity Livonian	NONE
+anywmv	etiecon any	NONE
+etirdfle opinioni	eurche opinion,	NONE
+even felriels	even terriels	PARTIAL
+wer hackniahe	ever packmane	NONE
+lrvsmcvr rfswey	everett ressoney	NONE
+evessate l1lf1lfll0ll5	evessate RELIGIOUS	PARTIAL
+evignnm than	evightm that	NONE
+6265125816115	evils leignint	NONE
+55395 liiver	evisps River	NONE
+ev0lf2ens ooilecrion	evoldens collection	NONE
+5337119 h10dl13f0fl	example moduston	NONE
+esment 984352	excent Pacific	NONE
+erculalv flew	exculav flew	PARTIAL
+wfory brought	exfory brought	PARTIAL
+elihidvw flliildify	exhidow qniddity	NONE
+18 traxvciiii	exicans traveling	NONE
+exists dlstafgb	exists. custater	NONE
+fixllfff mamvd	exprier arranged	NONE
+face sermax	face sermax	COMPLETE
+faavm 00221519	facere, covatily	NONE
+fact soured	fact scured	PARTIAL
+fact matedmit	fact. matedmit	PARTIAL
+fafllres gym	facures Derby	NONE
+fairscreswr	fairs tregest	NONE
+iaixzsbli pf0f0l35	faixabli Procope	NONE
+fanatics rrraries	fanatics maries	PARTIAL
+fenbehra exceeded	fanbehra exceeded	PARTIAL
+favinge case	faringe case	PARTIAL
+farming efimmu	farming efferno	PARTIAL
+tinker securnas	farther sectimas	NONE
+faversup deff	faversup Acts	PARTIAL
+fuvorit memefhf	favorit meniely	NONE
+f  may	feachest Mary	NONE
+lwampe pamilv	Feampe Family	NONE
+ftbcibifgie gmfefffd	fecipage governed	NONE
+feliffbm  	felidiai being	NONE
+63525 fiilibfri	fersted Guibert	NONE
+ffenia nailsf	Fetria nails;	NONE
+fbizlldomati	fhall dortati	NONE
+fi08b130 extension	ficabno extension	PARTIAL
+ffffibfslfifmm	fimpts prifoners	NONE
+lvirlancial miner	Financial nliter	NONE
+5519 unmilihary	firils unmilitary	NONE
+fr9r5kizwh	first Skinvil	NONE
+lifirst sweaeifvs	First sweasins	NONE
+fismors taking	fismors taking	COMPLETE
+fiihdl	fithop FULMER	NONE
+fmlatrrllis clmnbe	flatmens change	NONE
+lfleoalthm	Fleculth once	NONE
+flommgye 1313	floaxage 131;	NONE
+ixofrheae infiict	flocheas inflict	NONE
+fklfuniuvl seamwio	flufrained seamusto	NONE
+fiusam much	flusans much	PARTIAL
+mmm arewci	Follen atereci	NONE
+fame buena	fome bildect	NONE
+f0ff38i5 mwwf	foniats arms,	NONE
+fflflwflflllliln ciervezq	foretoki, clerven	NONE
+furfdk fthe	forful the	NONE
+zewormamo mmrmum	Formanso manunum	NONE
+formation 1a1lniff5f	formation. launity	NONE
+f0bbvi8  	fortvig currant	NONE
+fotersoh fvirkf	fotersoh quirky,	PARTIAL
+franwi lfzatelfifti	francs, kateled	NONE
+fffinatizl mrrcndcr	frapatin surrender	NONE
+fraxenie iqovembes	fratenic November	NONE
+lvraruded lishf	Fratuded light	NONE
+ifesh vwfiwnmn	fresh Wricknam	NONE
+fzw1edsf239	frethedy 239	NONE
+fromcuffed	from cursed	NONE
+fromaropera	from dropera	NONE
+l2f10rv1 ndbfeabel	FROM noyeacei	NONE
+fiom 1330139153	from Ploperd	NONE
+from dllibffa	from quirma	PARTIAL
+1512051 mmm	FROM thinked	NONE
+60111 umm	from tuam	NONE
+fy aaf dawify	front clarvity	NONE
+humtea graurel	frustrate, greturel	NONE
+ffilophe mae	fullophe one	NONE
+rurbeady sfmrfblffi	furbeady startled	NONE
+fhlrgiirsimoe	furgar since	NONE
+felwm mmgggts	future dumstuts	NONE
+sialable olrremiy	galable currently	NONE
+55959009 fl0fifill08	gamincon doctrines	NONE
+sarnnoaed which	gamposed which	PARTIAL
+gareval difairlt	gareval straint	PARTIAL
+grnerally lbillflsflifh	generally tonstria	NONE
+genotypes savert	genotypes. savert	PARTIAL
+gentese favcessnf	gentese ''necessary	PARTIAL
+germ 313372	geritia Rich	NONE
+flervascnoestrfrt	Gervase noestrit	NONE
+wwf rehtst	getmdjte relitst	NONE
+ummm suburfdd	GIDEON suburidd	NONE
+gistliisit dllfiylyf	gistlast dactyly,	NONE
+giefillhlld	glealm uel	NONE
+alybifbe bleed	Glycine boteed	NONE
+goinies fiiwl	goinies Foppl	PARTIAL
+gairfsouz 1556	goirsout 175	NONE
+  batiorfsr	goiwe, bationit	NONE
+20116 mmf	gone momenten	NONE
+good wisely	good sakely	PARTIAL
+800dvenento	good venento	NONE
+g0v9ff1q511l1702	governor sunott	NONE
+gracraii 139155	gracrati was	NONE
+grflrwviws kms	grannews lots	NONE
+emma unbetn	Grant unbeto	NONE
+sremitio 99601	gremitio space,	NONE
+gfrenville useons	Grenville usenans	NONE
+gr 5f11 11411	gressasm lui,	NONE
+aroma t11f0l12ih	Grocust through	NONE
+sfrflmlistnorum	grompist norum	NONE
+8110111151 cnanzfer	ground, chanzier	NONE
+suemme doubtful	guerrupe doubtful	PARTIAL
+guxaewe and	guidelle and	PARTIAL
+eldcfabaxvied	had calawled	NONE
+hmc dahtagr	haec deptagr	NONE
+haereiin still	haerefin still	PARTIAL
+barnbakis mmf	hambalds critics	NONE
+haiinbehie deceive	hambehie deceive	PARTIAL
+bamfrrmafmalli	hanymp actually	NONE
+harnecos 23356	harnecos 23;56	PARTIAL
+11311651 fiiwi	harvest fidlessi	NONE
+has 112111810	has plarnalo	PARTIAL
+have abieist	have ableist	PARTIAL
+havuwro nulmuwu	havowfo unknown	NONE
+	hear, Litinatu	NONE
+hean aesmea	heart desinea	NONE
+ ere coutmks	Here couttaks	NONE
+b2rswa50r5	hergeas sors	NONE
+hilllfismfimfl	hikons median	NONE
+hillienrv narrarim	hillieny narracion	NONE
+himfdi 9110991	himfelf, propal	NONE
+finial forwanled	hinial forwarded	NONE
+lflistory matbanbe	History mattence	NONE
+boclgffmf rest	hodgergy rest	PARTIAL
+bovwinzzml hiiarraeom	hominum' Marracom	NONE
+fflongii 021557551	Hongu ondlynaj	NONE
+livoreasngg	Hooreas 779;	NONE
+berlin kiinffi	horlse WEK	NONE
+hvrseye circii	horseye circa	NONE
+ 	hosairtur hir	NONE
+limmingfs  	HOUTINGS freec	NONE
+houzwors fag	houtwors fact	NONE
+5111 cmlbtlf	hp emptly	NONE
+frvgfraavvs iifli116l7f6	hughaws immenfe	NONE
+lflllhblei hugw	humblet larger	NONE
+13378038 very	hygols very	PARTIAL
+ll yfnenorcs pggienh	Hymenotes pakerth	NONE
+hrpmiistrupie	hypoxia. sprupic	NONE
+154fa1daecu	I54 aldjecd	NONE
+iceberg mow	iceberg enollat	PARTIAL
+mm xfimve	idziritadi vitzge	NONE
+ifuncts pwnmv	ifffuncts PAPILLARY	NONE
+be rertaw	ije. rettary	NONE
+ilwood tiwvibw	ilwood fuppofe,	PARTIAL
+imamjens ivixtii	imanders work	NONE
+imhecely you	imbetely you	PARTIAL
+ixneced wldiers	imeted soldiers	NONE
+lmiaampbook	Imigamp book	NONE
+irrilhefllfy rlvhffif	imphenry There	NONE
+ixwaundre bmw	inanche AND	NONE
+influence borarth	influence borarth	COMPLETE
+iimfolmerl cwxvatin	informed clawatin	NONE
+inftances rdydlin	inftances roydrin	PARTIAL
+irgswvfill pfefdefb	ingswan Preface	NONE
+m1mam1990	inkrano 1990	NONE
+may512069190	inoeprec may	NONE
+mama immlmwd	insuns inculcated	NONE
+izlberdict burierfrs	interdict hurients	NONE
+irtti0n0i fmfwmf	intionof conceptual	NONE
+illvllllililbi jillrhed	inveterate jached	NONE
+102 canary	IO2 canery	NONE
+  050811	IO2 oicarl	NONE
+irrupnion bousair	irruption housair	NONE
+isevespe are	isevespe are	COMPLETE
+larashm from	Istrashm from	PARTIAL
+itat wvnokz	ital. icappold	NONE
+im13ml984	itionans 1984,	NONE
+jacwf anceiira	jactor anceftral	NONE
+jounzdi h 	Journal nehesbus	NONE
+juamati cransfcrl	juatuati transfer'	NONE
+ildgczbuuot	judge Publot	NONE
+l11lifin6i000e	Julian glocce	NONE
+	junitlys Page	NONE
+juraws boumem	juratus bourneib	NONE
+	jurstall the	NONE
+3l1558i1l9ndlp90	jussight supideO	NONE
+kfiifer eomenurn	kalter comenurn	NONE
+lcaaqurafgu	kanura few	NONE
+fiqiglitalid	Kent gritand	NONE
+kilem ways	kilebt way.	NONE
+flinglmefils	knefits thing.	NONE
+1411321115 fohn	kniqui John	NONE
+knocley school	knocley School	PARTIAL
+xmas the	knodis the	PARTIAL
+knorfin 001	knortin col.	NONE
+manning	kohlto ing	NONE
+iflolitsf temporal	Kolity temporal	PARTIAL
+icroylesnudy	kroyle study	NONE
+iliuneestu	L'J uncestu	NONE
+118135542 ooqact	Lablide contact.	NONE
+lfkbhlifs  	lablusts Greek	NONE
+lantlers been	lantlers been	COMPLETE
+larfcbfvdify	lartly policy	NONE
+1942215113 ff0lfl1	lateling from	NONE
+lalhmp dvvabmes	Lathrop dwaynes	NONE
+1az1crs04nzsa	laticts CAREER	NONE
+latium 62159115	Latium darguots	NONE
+law 519061	law subent	PARTIAL
+kadingbotlaam	leading bothage	NONE
+leasl alllrnared	least Alumared	NONE
+lecmreaeiawf	lecture aciater	NONE
+aeeeecl for	legeed for	PARTIAL
+lgxinglfm perm	Lexington perstre	NONE
+hmrrfiix important	Licarrox important	PARTIAL
+liilflressmr	ligures Star	NONE
+	limpal Typology	NONE
+linfiiffll but	linfavy but	PARTIAL
+lkerature inroios	literature inrobs	NONE
+livererr fjnwarm	livelerr EDWARD	NONE
+lizexm muegv	lizatild atnaltA	NONE
+lwbcnmed	loab craliced	NONE
+xoaaebf continue	loadely continue	PARTIAL
+waislliistsq	lodish fists,	NONE
+105121 kenahlm	lofty kenalum	NONE
+lvsren have	logren have	PARTIAL
+	lomisto leaft;	NONE
+fmti 13811519	lonti bardly	NONE
+look oontanrv	look contany	PARTIAL
+yovoican the	lovoicap the	PARTIAL
+lowsbok rule	lowsbok rule	COMPLETE
+had 5	Lucy persuit	NONE
+106381230119	ludasts out.	NONE
+1111332 llblify	lumeac policy	NONE
+1111131151 20v8frtr11f3ti	luninist government	NONE
+iumie the	lurlie the	PARTIAL
+boafvfenrruzison	lxxxv, commison	NONE
+maburs rushed	maburs rushed	COMPLETE
+mamw considered	maillby considered	PARTIAL
+	maisting difficult	NONE
+flliilffr sevenfa	major seventa	NONE
+mwf 	MAKE stacarme	NONE
+malsztt flew	malsitt acts	NONE
+mrmterri cllfrellcyj	manterri currency,	NONE
+mmvmuzs	Many prolony	NONE
+rnflrdeai sdlohfs	mardeat scholars	NONE
+fffffffgretlm namerrw	Margretha Raterity	NONE
+marriage 353638	marriage alizets	PARTIAL
+rndrriflse blaafan	marriage blzeran	NONE
+lvfflsscrre cittes	Massacre cittes	PARTIAL
+	matichin 6OI;	NONE
+bzarb manoem	mats mancent	NONE
+mai 135565	may ladated	NONE
+mggmg sermon	means semanoe	NONE
+membershiv 111610211	membership pleteall	NONE
+mendbitt ofclock	mendnitt o'clock	NONE
+brfehwliitirffiltifli	Menfanot treaties,	NONE
+	mercly stiondec	NONE
+ldixiafli rlxeeyilb	Midapt cheerfully	NONE
+fltidbw ooweids	midbar cowelds	NONE
+milanzic 110151	milanzic not.	PARTIAL
+minaslnr clasnihca	minasky classifica	NONE
+mintlfbe ciowfs	minthbe cows	NONE
+guido 771401	misido mdol	NONE
+missed yahkehi	missed yankelli	PARTIAL
+1111113313 emnmiuuee	mitagh committee	NONE
+mifiollk 1155	mitious the	NONE
+umkvoutinda	mn wontinda	NONE
+m0ctt0fs 1355	moctron 135;	NONE
+rrwdrrm ladwaroe	modern ladwarce	NONE
+rr10d6fh savotbfln	modern savothan	NONE
+mcsoinee ellamea	mogoince chance	NONE
+rrlvnriwle llraxf	monrive grate	NONE
+9382131 691109	moral ganett	NONE
+mfkwrslexisvc	mortars. exisoc	NONE
+5106658 68lhw0f1111	motiots earworm,	NONE
+11101158655 shcniocl	mousses, shondod	NONE
+rflflvefwlppgi	moweiste Ippei	NONE
+much 059103911	much cherchen	PARTIAL
+m11r00r bllllimflld	muroor thousand	NONE
+made aconvog	musee aconvot	NONE
+nillfheiht men	mutheint men	PARTIAL
+m1934371 wterle	mystery. cotene	NONE
+rnamczrconse	nachor conse	NONE
+nacowe equi	nacoove Equi	NONE
+113191185019	nal chascup	NONE
+nauingparfffg	naming Pareis	NONE
+11anaceab0rti0r1l	nanace abortion,	NONE
+ntlmfilti nzmil	narmenti misal	NONE
+lwzfrorrs realli	Narpars realize	NONE
+nrrrods secured	ncrods secured	PARTIAL
+11911099 accomplish	nellow accomplish	PARTIAL
+flekifs almuwe	news aunnove	NONE
+newspapvn anmrme	newspaper, annutme	NONE
+may 39531911	ney aveneli	NONE
+affileemployed	nffile employed	NONE
+fxlififl 91120113	Nino putolls	NONE
+nlhvifige  	ninvinge October	NONE
+niiefi enbiwd	nited eppked	NONE
+named mm	Nobled Djuna	NONE
+non 11831152	non nainiz	PARTIAL
+new gohemd	none lioneend	NONE
+noower induscries	noower industries	PARTIAL
+flu imits	not bylits	NONE
+nocliedimt	not Dedinat	NONE
+mmf 1211166	not lehide	NONE
+h0f1rf3e33me3	not, reepmes	NONE
+blew 85 01101111	NOTES choutz	NONE
+nvlllzieek secretary	noubjeck Secretary	NONE
+r1n11111i1 wiclcm	nummin under	NONE
+rprnody 155829	numody Alice	NONE
+occasion johard	occasion, johard	PARTIAL
+oclvexa third	octveret third	PARTIAL
+0ffl081i7 3530680	officer, adjudso	NONE
+obsfgfefter	Ois' grefter	NONE
+130llf1v	OLAF Bouttv	NONE
+llltlbfllfefi	onc. bouteed	NONE
+0116 3303853721	one shordion	NONE
+0f11080k1f9f1	ONTO goured	NONE
+bperations peroxet	operations paroket	NONE
+operti invzwiablbf	operti invariably	PARTIAL
+fpkgf lkzfduadhf	orker Monadity	NONE
+ovfceih nrctzives	orketh Archives	NONE
+orthodox ctancla	orthodox ciancia	PARTIAL
+derive inw	otente into	NONE
+0511610 iifidiiiti	other stioniti	NONE
+0ther5158ii063t	others. saticast	NONE
+gthgfwife rabeemql	otherwife rabeemon	NONE
+ovmettlrfed	oundettl Fred	NONE
+mf piestrie	our piestrie	PARTIAL
+	our requsit	NONE
+ovrazemfqlal	ouratenc E	NONE
+lxlfket mmf 53	packet tionspe	NONE
+pwiiiilg 555333	packing sidina	NONE
+llfldrriifie far	Padmitle for	NONE
+pcmd6l 1099133	paeaded lowless	NONE
+955933 dlqdcir	parejd al-dar	NONE
+rmamrmw vifbw	paremptu What	NONE
+935231 hd	parizent not	NONE
+passfhanimllhe	passe hanimphe	NONE
+patent cwilrra	Patent Covilita	NONE
+pillrvbflh fphony	patroym 'phony	NONE
+phlyb f655i0l12l	PAUL fessiona.	NONE
+neyawfo intense	payapsto intense	PARTIAL
+vwmbly nflafrsftfr	peaccably maryter	NONE
+pamliilff 14	peculiar Homall	NONE
+pedicelavlleify	pedicels, abcity	NONE
+172339112 firiibneq	pefeene Grobner	NONE
+pefwalfvlfuraan	penalty) fultan	NONE
+giggle axvarters	people awarters	NONE
+9609185 mmaes	peoples hortmes	NONE
+nerrnivrklhillions	permfork (billions	NONE
+9371078	perron	NONE
+vbofusvvh wmpmg	photograph comprog	NONE
+piverslfit	picers 141;	NONE
+bifthtelllirz lfhanngerg	pienteum lmanagers	NONE
+views facilitate	piettog facilitate	PARTIAL
+pitncm much	pitncre much	PARTIAL
+plslec pluetie	placc. prnetie	NONE
+91213111151 flrrlbhifnpp	plaintiff Emphimph	NONE
+played cxasxfom	played crasitom	PARTIAL
+nlffbftrliisf liaboleou	playmphly Napoleon	NONE
+17162510465 bmvehe	pleasures buovelve	NONE
+110599 bmwnrsrmrr	plofer DEPARTMENT	NONE
+purine process	pocize process	PARTIAL
+voihlav amd	poinlay and	NONE
+mm5 	policy seecessu	NONE
+905072 5f35f0h	policy, ension	NONE
+90133763 algebrill	polinds algebras	NONE
+  iremin	PREACHING iremin	PARTIAL
+1323243133513 53136816	preferably derseque	NONE
+	preffory his	NONE
+pfe35il600f	prejessi 1600.	NONE
+lifeflliffe diiflgrccx	prequire disagrees	NONE
+zriefme 106	priefthe 106	PARTIAL
+prmwi nmdsswfy	prinuti machinery	NONE
+	prites ziaagia	NONE
+imitxie  	prittic and	NONE
+pfivildsf wavbllq	privilege wavilin	NONE
+ilizzie much	prizzle much	PARTIAL
+probkms r0m180	problems runago	NONE
+problems t11f2ri0e	problems therjce	PARTIAL
+prooem doowns	process doorons	NONE
+proqeb v a	procler you	NONE
+331004154155 5121	prodynas 542,	NONE
+pfvgrammes 042652	programmes curede	NONE
+mmfbf andrew	promely Andrew	NONE
+pfofcfficn kiiedge	protection kliedge	NONE
+lfolmaff cldfenee	prounalf defence	NONE
+pwuntur minstcr	prountur minster	NONE
+prourlet horn	Prourlet from	NONE
+proxidfr dielhfm	provider thentre	NONE
+prmfizimm lowdirca	provision lowdirca	PARTIAL
+pmvdrig character	proydrig character	PARTIAL
+ix05i771c8g2	proyinc the	NONE
+lmlsmure	pru souting	NONE
+mmxumwpkwff	puranshr places	NONE
+plnxcfm for	purchn for	PARTIAL
+pl1rr13l3right8	purnats rights	NONE
+purpmeswhozstr	purposes whoustr	NONE
+rwdvn youfrf	pxkton you're	NONE
+qugibba lisurpation	quabbes Usurpation	NONE
+quenee banasme	quence Panowne	NONE
+0140585 liwrbc	Querge Heauffec	NONE
+question mated	question onated	PARTIAL
+up 54311 dwpofh	quick dupposh	NONE
+riwestim offscning	racestim offsetting	NONE
+vaffftklliftli	raf tunfint	NONE
+wfmfmgwcnllby	raguling Macnulty	NONE
+rairee 3555	rairee 356;	PARTIAL
+raised womans	raised wootans	PARTIAL
+15331161 llffilftl 141153155	raloffen attachment	NONE
+l z  vom	Raone vollum	NONE
+mpnwlm the	rapphaun the	PARTIAL
+riwelefflt which	ravelent which,	NONE
+ivldl bannasiz	Rdl bannagiz	NONE
+refidefic br	readefic for	NONE
+rvrrfm strausm	reafon straugm	NONE
+mm immal	reality inernal	NONE
+rearecia huudfd	rearecia hurd'd	PARTIAL
+	reason; trauseve	NONE
+2604131365536 qgmjgr	recompense voneter	NONE
+reecricn desire	rectrion desire	PARTIAL
+reiiafli adm	redani mdex	NONE
+fiance fmmfr	Reflec torthdr	NONE
+nffleuedi frflsveled	reflected, frayeled	NONE
+femxm traditions	refutut traditions	PARTIAL
+ mm	regesarg other	NONE
+rgxannene 55146	relaneve Blues	NONE
+relations 5437937181	relations. newing	NONE
+rexmrksf 9611506	remarks, Benice	NONE
+rernestruthe	remestru the	NONE
+r91h01311030lti	remoun excur	NONE
+removals ndhim	removal' nothan	NONE
+femlinul admmmad	renntoe admounad	NONE
+ffflffc 20vereii	repre zovered	NONE
+requisirey awvichwi	requisite, switinal	NONE
+refidcmqlseezts	residence, keets	NONE
+resmver mica	respayer raid,	NONE
+respect inrrturh	respect innturia	PARTIAL
+nqmeitwescefxf	respect westeer	NONE
+f  arlirtzmn	respond aturtman	NONE
+vestrss trmimdxt	restras treatment	NONE
+255320328735	rests, caleaser	NONE
+lzeirxdrle lirl117	Retordne light	NONE
+returns ptllmhili	return, Panslrof	NONE
+mmraklld	revereuk 216,	NONE
+revival deralv	revival deraly	PARTIAL
+ficarclv swf	ricattly flst'	NONE
+ricirs22r3l	ricirs 22;31	NONE
+view ixnlmfect	rielps imperfect	NONE
+figgiiit amish	riggist might	NONE
+rirhnfs mrcrest	rinting interest,	NONE
+giver 13133617152	River plasquer	NONE
+r0ck5 nerrzonrio	rocks Remonsio	NONE
+ibfifli pmlrerg	rohetici powers	NONE
+raieoe and	rojece and	PARTIAL
+role binewocs	role Dinewors	PARTIAL
+rorzaimf aspect	ronzater aspect	PARTIAL
+mmf liewera	ROOM liewera	PARTIAL
+7511 gnrfnf	rov sannew	NONE
+1095111922 00381531	rowitned convention	NONE
+rawsklee fbilowedl	rowskee followed,	NONE
+nie 00555112	rule onstigro	NONE
+rilseveli invcsti	rusevent investi	NONE
+nrsudem confinlous	rusudery continuous	NONE
+rbltfldihbmjgl	rutookh trals.	NONE
+55013733 species	rutouthr species	PARTIAL
+saocrdil ww	sacquil was	NONE
+sailike commen	sailike commen	COMPLETE
+ealinsia arrived	salingib arrived	PARTIAL
+slimiiny frawfr	saman, frappor	NONE
+58l11985f11l13	same escrudis	NONE
+581116 nedsfh	same nedgech	NONE
+sarmafnsebeen	sannanse been	NONE
+sfmlliib forfmir	sarputio former	NONE
+savage zarmas	savage. zarmas	PARTIAL
+savages 947151731	savages, ainlgral	NONE
+gceuxm licrmarm	scailito Hermann	NONE
+scarmealdes	scanneal des	NONE
+sccgaw quitemtxr	sccgan, quitemor	NONE
+9059909 snreddlsf	science spreddly	NONE
+ e 5600111332	scruhnne according	NONE
+3339337 jleztkod	scuptln Method	NONE
+seawar raft	searbaf raft	PARTIAL
+sevlwztally 8106188	Secretary stodkes	NONE
+s60fa51l1i1m6q	sect siblilie	NONE
+ifeisill 39202157	seisin Eviday	NONE
+kivocaxie	sejm ottable	NONE
+sel 	sel shibure	PARTIAL
+seriirrt ewnlllallv	senifort eventually	NONE
+sense kaeiselsf	sensc kagively	NONE
+52qll6l13  and	sequens and	PARTIAL
+sfnnm lifimaiian	sermon unmilian	NONE
+sestn11n1w0	sestrato 1930	NONE
+senzingirnerufnh	settings. mennih	NONE
+settle 121111923	settle Brinves	PARTIAL
+shall asroffe	shall agroffe	PARTIAL
+ananmz brwiuwa	sharmot business,	NONE
+sheavess aquisi	sheavess aquisi-	PARTIAL
+shelfzrlim lrlilzhffy	Sherman unithiry	NONE
+sbewirlg also	shewing also	PARTIAL
+shinnal 821485	shinnal gzugs	PARTIAL
+5115143 izfmsews	Shoka impseng	NONE
+scum 165	shonion I65;	NONE
+551190 313612	Sialko glad;	NONE
+simdiss mai0f	siandiss major	NONE
+simmer houses	siatter houses	PARTIAL
+fsioelsnon	sicels non	NONE
+9339635 advance	sigereas advance	PARTIAL
+silent gqgjet	Silent snellet	NONE
+similar uianiea	similar kianies	PARTIAL
+filmpffle 051	slictime om'	NONE
+sniwsf believed	smitost believed	PARTIAL
+smobwi any	smobelli any	PARTIAL
+sqfsytjzaxf f433f55	smythay Mayse	NONE
+incty spiafdi	Society spieres	NONE
+mfflfpmbovv	some porbolly	NONE
+smollu sibclv	sonollo siecle	NONE
+sorlowase flwfsf	sonowase George	NONE
+jkfrnvsside	sor rnossidg	NONE
+gpefjmegg 0l3f0f11al1f	specimens ouromant	NONE
+	spirit'' carmint	NONE
+snirirual jinspir	spiritual Lospir	NONE
+89033133 obiecfn	sporled objects.	NONE
+smsamvbgier	spossm Vogler	NONE
+95111330257	squited 247	NONE
+	stance mingrote	NONE
+aiour 1118508	Stiour Justica	NONE
+3fl250fbi0l0gy1	stolor biology,	NONE
+409960 antabrqv	stopped antabroy	NONE
+scuwmaheflw	stowmane the	NONE
+55103551 30001109113	stracary accompany	NONE
+strexrih hui	strekin but	NONE
+8f11113em1snaek	strug constack	NONE
+stumers jrmafe	stumers Jamie	PARTIAL
+subiect caraint	subject canint	NONE
+subnotiomass	subnotio mass	NONE
+gygfggf 1557833	success lerven	NONE
+	sufall containing	NONE
+sumak appear	sumalt appear	PARTIAL
+sllmofa infhlerweg	suprota influence,	NONE
+sursvmliff	sur sproliff	NONE
+surczurrhaf	surcur that	NONE
+smedi tamed	surrecti turned	NONE
+wspewtu uesceh	suspect hescen	NONE
+swirrsiearcimgen	swinsi carcinogen	NONE
+rabiwr gwlchff	tabney gauche	NONE
+flficirrg reehni	Talking recturi	NONE
+ramics gem	tamarks gentor	NONE
+5210605831858	tance sathess	NONE
+53iil133f3 scripture	tatineas Scripture	NONE
+tativai command	tativeri command	PARTIAL
+taxsfreign	tax streign	NONE
+lfifldff  	teraire patignma	NONE
+termq earerer	term, eareter	NONE
+i22f1l3f2l3f7l0l10s	ternapp mono,	NONE
+ternnezsf  	ternney writing;	NONE
+tersyorti discussed	tersorti discussed	PARTIAL
+	thardrui 406	NONE
+thai 110012	that troors	NONE
+aheafiicia	the afficia	NONE
+lhv 2381517	the agglisly	NONE
+flii atearbe	THE atearbe	PARTIAL
+the chourne	the chourne	COMPLETE
+5132 comma	the comaud	NONE
+ifdgfawwe	the grachese	NONE
+the havermar	the havermar	COMPLETE
+the hereverie	the herevede	PARTIAL
+fha 905010	the politho	NONE
+fh8v9i10w90	the varcurc	NONE
+131167114 5155331759	their hieparly	NONE
+thggfeg fl050il7g	theires noticing	NONE
+themselves mflrcierii	themselves marderil	PARTIAL
+lhezuflmuwfy	then. cantray	NONE
+fhere adrmrcn	There admarch	NONE
+dictorsffring	thictor setting,	NONE
+thighaus hiss	thighaus MSS;	PARTIAL
+thilvy kidrrex	thinpy kidney	NONE
+this mfacmge	this cracinge	PARTIAL
+though absers	though absers	COMPLETE
+ffhovgll 511355917	Though grostion	NONE
+11703100 ifgaljggd	threaten inationd	NONE
+three thaidth	three thajdith	PARTIAL
+chrougb 1975919	through waspre	NONE
+throw fvrclurs	throw forclurs	PARTIAL
+fhwm foxinasi	thwart folinasi	NONE
+tflwism 5751811151	thwism systems,	NONE
+511111106 0993	timbroe coaft,	NONE
+hfimfsticaw	Time sticaw	NONE
+lima fyouseve	time. Touseve	NONE
+lfixwamer rriggercd	Tionamer triggered	NONE
+t l  	tivett projects.	NONE
+nweswx illescar	tnafni illescar	PARTIAL
+ 	tobeet 842	NONE
+t3gl5l3fff55r51	togeorms first	NONE
+toiuuml synthesis	toluncul synthesis	PARTIAL
+cotratis ilenbe	totratis Renee	NONE
+ffrait6 avrzclerist	traite ancleast	NONE
+ilfillllfifal 613161128	transfer dendres	NONE
+nam fifid	trarmes and	NONE
+twriati fkrfdk	tratioti Bartok	NONE
+traversed coimaq	traversed colrnan	PARTIAL
+creat facrm	treat facron	NONE
+rrevam oonnictfa	trepant conrlicta	NONE
+933132 judgzncutl	trepler judgment,	NONE
+rlirfbllfha ulillwfirs	Tributha Dogmatics	NONE
+trfhrida 1111011	troorids upon	NONE
+fruf millsons	true millsons	PARTIAL
+crwnnlelefa	trumble left	NONE
+tfumefefi sllmsmxl	trumerea thousand;	NONE
+twins mwah	truths, seables'	NONE
+fflpuqufh 31132510	Tupuquen jurcyc	NONE
+turnovers mme	turnover. symnle	NONE
+9818111 3191506121	uggm Raireebt	NONE
+and illbent	und Dubent	NONE
+flflffff 00111136513	under combeli	NONE
+141151713158 lsliiiffilfvfxq	undiblig Western	NONE
+uneducated 00112966	uneducated conesed	PARTIAL
+l3 f1lhwlthw groum	Unhealthy gromps	NONE
+llmud ff 3110133	unuratall frallous	NONE
+unhihler channel	uphihler channel	PARTIAL
+09011 afhshi	upon allishi	NONE
+llbou cc	upon coaros	NONE
+upon 1111286165	upon hipsends	PARTIAL
+rpm wwuerni	upon. rounlemi	NONE
+uriatowa loved	uriatowa loved	COMPLETE
+vfllfsfotia 1190	vargotta rpt.	NONE
+various haxmw	Various harany	NONE
+valvrearf lhbef	varreart later	NONE
+vervenr twvfffglqlip	vervent ownership	NONE
+videzess place	videress place	PARTIAL
+5158101 witailla	view. witailla	PARTIAL
+vfmfo www	vintoto Weekly	NONE
+viscgnsf two	visconsf two	PARTIAL
+vfssfaini 1131113	vistaini norms	NONE
+vocalsl 9198110	vocals] preano	NONE
+voltrokwagu	vol. trokwagu	NONE
+voliel 7421	vollel 741	NONE
+vosrmay fine	vostmay fine	PARTIAL
+vousfwlrfifb	vous, eatrac	NONE
+w1ilt9 warnmt	wafts waroket	NONE
+vfafsiefl love	wagien love	PARTIAL
+wmmarglnan	wanharg ran	NONE
+warictor hen	warittor her.	NONE
+lvafvelftz	warvertz.	NONE
+waeclarnper	was clamper	NONE
+wdivflmlwe	was parpluse	NONE
+wa5t0fi2i3	was tofiets	NONE
+wdi beersisr	was. beersist	NONE
+way sdocal	way solocal	PARTIAL
+welover  	welover confine	PARTIAL
+went v0lome	went volome	PARTIAL
+wjjs grand	wffs stranct	NONE
+whariilfh 03161522	whariech others	NONE
+vmialty oollfident	whialty confident	NONE
+which wmondv	which camonely	PARTIAL
+which furcies	which furcies	COMPLETE
+which eorsoll	which sorsoll	PARTIAL
+which htiffrwm	which utionram	PARTIAL
+whinmv officials	whinpov officials	PARTIAL
+who deautor	who deautor	COMPLETE
+whorw 13f	whorty I31	NONE
+wickedly stivraflls	wickedly staralls	PARTIAL
+wife belem	wife belern	PARTIAL
+ p1l8d0	wignatio plastic	NONE
+winalifed fespfct	winalked respect	NONE
+winaneh occupy	winaneh occupy,	PARTIAL
+witzalne 8021	witake ''flat	NONE
+witmfan 119011	witypran upon	NONE
+womnaba a ware	womnatia adequate	NONE
+work lifinral	Work livintal	NONE
+wnrli swim	work. suwint	NONE
+world thiataixn	world thiateim	PARTIAL
+worlcfs sores	world's sorets	NONE
+wounesm and	wounet and	PARTIAL
+vvlilthflllsoones	wrathful scones	NONE
+wszimana limi	wrimans Lierri	NONE
+gi1ml  	writing, flostann	NONE
+written ermeille	written exoeitle	PARTIAL
+ilwflasrm	wto flasked	NONE
+wykfrair which	wykcrair which	PARTIAL
+9521 manoes	year mances	NONE
+763315113 dsvaries	yearning dwaries	NONE
+5591361116 glance	yepperne glance	PARTIAL
+70115 coterob	your cotemb	NONE
+film 11335469	your harokkee	NONE
+yr50n8rs lhri	yrioners the	NONE
+28211508 gffratfir	zathioe greater	NONE
+mlirhii	zur jurmuste	NONE
+ghwlself iavtsorlv	[her]self laytorly	NONE
+lwhai xnqfat	[what knowsit	NONE
+
+Out of 1000 had 20 complete matches and 216 partial matches
+
+Complete %:  2
+Partial %:  21.6
+

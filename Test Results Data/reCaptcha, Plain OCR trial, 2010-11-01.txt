@@ -1,0 +1,1008 @@
+Looking in '..\Test Results Data\reCaptcha, Plain OCR trial, 2010-11-01'...Found 1000 files
+OCR Contents	Expected Valid Result	Match Type
+tl~l8l2J@°r161`S	(1482 aeonars	NONE
+(317 dmv	(317 erenty	PARTIAL
+(\\'\v¢l»¢1~ addslwmi	(whether addshomi	NONE
+103 dqxalli	103 denalli	PARTIAL
+|06>wmc»r	106, zestot	NONE
+10:27 a.fhu§Qe	10;27 athousee	NONE
+ln, g'rQr:@Pg	117, grencerg	NONE
+|22-banidcn	122, banition	NONE
+|43 Sd\Qa»§1o	143 scheasho	NONE
+|450d5ez°@	1450 elderce	NONE
+091535	148, conize	NONE
+1S2m°us	152 hoolls	NONE
+1611 Whiwir	1612 whisair	NONE
+161; uiiluge	161; uphuge	PARTIAL
+'54~Q9St5£“°l1	164, destsman	NONE
+1663 fmwwnnf	1663; commanot	NONE
+1707- dllaxtivlz	1707. duartion	NONE
+lm ri¢'~1E0B1'	1757 rifugogr	NONE
+1765 Offtion	1761, offtion	NONE
+177' www	177, atrabred	NONE
+I79¢¢@ue=w	179 maness	NONE
+'79 owevi	179, coveni	NONE
+179I1u\1\def¥	1791, kinders	NONE
+187; uwarl	187; browed	PARTIAL
+’390' °0""D\°‘¥1e	1890- complame	NONE
+1945 “um	1945. quinse	NONE
+1936l@as1l'=	1956 leasile	NONE
+1962> ukQr~`°1	1962, ukervel	NONE
+19315 ww	1981; lacherd	NONE
+1982; 6i%0-ll*	1982; draccur	PARTIAL
+l`\|aUR1d>0r	2 enmshor	NONE
+201; xwereve	201; keereve	PARTIAL
+201heffleiane	20I heaviane	NONE
+211 #ew	211 giogen	PARTIAL
+:Ei bvgedq,	288, Ungedion	NONE
+30I3» evtooe	30I8, entoce	NONE
+}|4»cowiti	314, cowiti	NONE
+ms' \'~’1`id33'	315, wricay	NONE
+365, \v0¢l10daw	365, woonodaw	PARTIAL
+m7al2iS\r\0l2l	367, leigmena	NONE
+405ir1"a'i§l	405 inverisi	NONE
+Alfswu-an	42-8 lajerida	NONE
+4641nnwS	464 bottes	NONE
+0411913	635602 conials	NONE
+658til°dxne	658 bilcolme	NONE
+‘7`¢6 0lJta_g1~t_	7-26 outasort	NONE
+73~30a12\rmi	78-80 alforwd	NONE
+a/¢\dvirI782	aadvir 1782	NONE
+/V8"1f’””\ai‘\Q'r\3he	Aagmaan panomane	NONE
+Abadmuw	Abeid lesicho	NONE
+gliafhl initially	ablathl initially	PARTIAL
+2”’3°"HPI'0e&	ablewid process	NONE
+atimiia senior	aboubta senior	PARTIAL
+abwtnandr	about nanten	NONE
+ilbm/6 Dfihi-$°°"	above pringoor	NONE
+Alltéelz d€Sirab|e	Abrosen desirable	NONE
+LLCU_u’3i5 gluds	accurate gructs	NONE
+8¢2Hiif’&19°0!l¢	acgatind soone	NONE
+wfidb-°'n4Sl<	acid hometsk	NONE
+adxwvalui Frér€S	ackwardi Freres	NONE
+acharls not	acluarls not	PARTIAL
+surleasm |It';'¢I`f|3l"f1':-1	adeases -	NONE
+a<ler1'iP`F11	aderri m)	NONE
+ada-egg Hetbnx	adeteed action,	NONE
+adonees from	adonees from	COMPLETE
+dgltws was	aectlays was	PARTIAL
+afemfm Img	afelhan larg	NONE
+-Afkedlls amz	aftedits sent	NONE
+afrefwrcovi	after cortovi	NONE
+Hftaolllidil	after culdeffy	NONE
+a1’ter6°w¢\S	after flowns	NONE
+affeme mwah.	afterne crystals,	NONE
+*Se-	age gatorto	NONE
+v/Sw“=1T“l‘0°\‘	ageelia Turner	NONE
+a3a'vVll pfuyiflce	agerwil province	NONE
+ahmtink Othef	ahroting other	NONE
+Sikrlnews	ailori news	NONE
+	airiel floor.	NONE
+»if=nv°<lw==fmv°k	airspeed opsynock	NONE
+ALIYEKTI fhpafb	ALBERTI throfo	NONE
+/’\1calétr0s<1'e	Alcala trosore	NONE
+Aldaiades dmdfv	Alcibiades denuity	NONE
+nlibd fwiletcy	aLibel feadetcy	NONE
+all Queiltes	all quentes	PARTIAL
+&¢;P\Jtc0f\	also. putcon	NONE
+»lrl».,,,g1,1¢CI:a£@d	although lockated	NONE
+AmtriCln Calif#-iv	American cannuiv	NONE
+a11'ma1']0t OfHC€	amparlot office	NONE
+and bdiéletl	and bobleced	PARTIAL
+and	and Gararany	PARTIAL
+=mf1UiDP"°	and hippro	NONE
+mdisdzoéo	and ischosio	NONE
+ind 7°°si11	and Jorgin	NONE
+8ui1f‘fSb&	and milsba	NONE
+AN? YOVHITVXE	AND rovenme	NONE
+md Qiililll	and siatiou	NONE
+and gruales	and stuales	PARTIAL
+f>.nd‘“°g“"*	and tedgioni	NONE
+and 6151153	and tifflugg	PARTIAL
+a;dh1“¥H1&-	and turneing	NONE
+Afnqlnd should	Andqued should	PARTIAL
+André “’““§“’	Andre gonnsid	NONE
+annourred #Wm	announced twenion	NONE
+anfsfll rea .	anositz reaction,	NONE
+anyaiidf	any aticti	NONE
+°llYfif1g\€\	any binglei	NONE
+anybody ‘	anybody ventoroci	PARTIAL
+aParlQ41‘1@f0“lY	apart equetomy	NONE
+&PDefiVEre3|	appetive real	NONE
+Amen: 1662,	Appetu 1662,	PARTIAL
+a9Sio€SeSyS1en1.	apsicese system,	NONE
+azdeneus  	ardereps This	NONE
+www"	are setobstm	NONE
+urethluwhi	are throwhi	NONE
+BIB una;-ies	are unaries	NONE
+orwwhow,	arevoo how,	NONE
+afiws iii:	aribus the	NONE
+vfihrleulb	atifine this	NONE
+mlgldaw _ffighpls	aughelaw friends	NONE
+€Ui'51r19@r thCrapiSt	aunimpar therapist	NONE
+:waive Ami	awaine Aers	NONE
+:xwaY~ 5B'W¥	away. sualfere	NONE
+avf:xedy480	awottedy 480	NONE
+$93153 term	baccuffe term	PARTIAL
+wnlrdclidué	bacurd cliche	NONE
+bafdinsxffstii	baffling refshei	NONE
+wlluierl 'Hwy'	balutted many	NONE
+haflstvllnray	banstoun ray	NONE
+lwanuvlwwnzsed	barmonce caused	NONE
+bwd' h<me¢»f=~=	barred; homentase	NONE
+bgcann } 	became hawatent	NONE
+bmw warmly	because marenly	NONE
+below 'I`¢"~lD€¢i?.	before Trupecie	NONE
+being	being Bearagro	PARTIAL
+U@1ax>“liS\1n110	belaculi sunnc	NONE
+1JQH&for	belbre for	NONE
+1J¢l\@Of|y\r.	berveno fpot.	NONE
+‘oehpl c0Dcinl'|a	betueu concinna	NONE
+B¢}'tfZi§ 111331195	Beytrage lusaned	NONE
+ti*-Bti11fhrfs	bitation ftorcs	NONE
+blfwkmea "““”‘°’	blackened trurdity	NONE
+www	Bocide the	NONE
+lz08:ni\Dt ;\\1Cfi\‘l]-TE	bogympt allowable	NONE
+wnwin obs-ixtes	bonsain obviates	NONE
+b¢1‘g;1\.\@ 1931,	borequed 1981	NONE
+bmmriswnnct	borondis cannot	NONE
+hoehwmwlnf	bostmand what	NONE
+$09!U‘\Tl’3	botchle tion,	NONE
+b°~1d5|yC1erk€	bouddly Clerke	NONE
+b°\>lv3l`y HQW	bourvary now	NONE
+Uligge chnoxlifr	briegge chronic	NONE
+U"'5H>¢’SS» nmporiam	bropess important	NONE
+WW” Cfiriml	broppect Critical	NONE
+usviwsing Terai n	buissing Terezin	NONE
+D‘“g1iSn8	bulguis u8	NONE
+vunePt`\16	bunept n6	NONE
+Dirge” #mm	Burgers jaissedi	NONE
+hw I1°f111’”@	but becurze	NONE
+N551 0xys¢“	butieli Oxygen	NONE
+bVQ1l9@SH€n1'Y	bventees Henry	NONE
+Cfidiz Wilvdt	Cadiz wilydt	NONE
+¢an’de¢fh=fr	call'd eadrner	NONE
+calledmurxfim	called mccifinv	NONE
+091|-l955°diu:alY	caluatio directly	NONE
+c(jl’\50Q1YQUVE	camsocu you've	NONE
+wndidly \1`o¥1€=	candidly brotle	NONE
+Cflrnellivused	capperry used	NONE
+wrinw r-ahxwfan	carinac ratervan	NONE
+celvsin “°‘	carvarin noc	NONE
+0&s6lm2¢»a¢1==	cases manatue	NONE
+Cifilogile balbvm	Catalogue bathors	NONE
+Ca'5ciPS °011‘I>li111@11t	caticips compliment	NONE
+Cadil\I¥:t5	catifin nets	NONE
+mtsslimxa?	cats stiotted	NONE
+631158 9-Head	cause allead	NONE
+caused mam	caused ducrin	PARTIAL
+099113 ..l H	ceeria Bruckwald	NONE
+oelmin  	certain imptinly	NONE
+ChQ7lbf€ lwnlbgtvg	Chambre hambowet	NONE
+dmmrawnffr	character crainer	NONE
+ch8rad»@r. sdntww	character. confisrs	NONE
+Canon dlewnilz	CHARON onesmin	NONE
+qhaswnfxl l2hs¢f\	chastened lapsen	NONE
+died* mirgl	checle Redrige	NONE
+f=hid1>'fi¢"“¥'=°"Y	chiefly doursady	NONE
+childfm "’"' '”" '	children. minvocer	NONE
+<1°1`w'f° Io!	chramin IOI	NONE
+chmmagii Sfndiufl	chromatid somphurl	NONE
+¢mer\ial8I,	chushia 181,	NONE
+<:l35S1'00l'11_Defik@9\	classroom. beakeel	NONE
+cliSh2l-by fI'011'l	clighary from	NONE
+codiail aw#	codicil custas	NONE
+UOiS1‘15fQ Very	coishefe very	NONE
+QvpgmmgnIlaxai	colamman have	NONE
+cfibwilll	colboxi II2	NONE
+ofikrdl sistcr’S	colican sister's	NONE
+Cnllgglhr 0017606	Collective correce	NONE
+a0|Io0=¥ difflculy	colloess difficulty	NONE
+0oL<;»m. pfwvhls	COLONEL pronsfus	NONE
+C0|0nifS\vQ.;U1e	colonies woutne	NONE
+¢"“’f’°‘1 dfriwnlvae	comered dicmatione	NONE
+mmsiwl notice	comficel notice	PARTIAL
+C0111mCl1tS hanif	comments nartif	NONE
+Qwlmefnsifrine.	commerns icine.	NONE
+comnlitted #lard	committed plarti	NONE
+ooflevothth0ufa11d	conevoth thoufand	NONE
+¢\l1fin¢\,9a.\,ert`	confines, saverf	NONE
+confliéhlxn Iiqical	conflictum pitlical	NONE
+c0m¢xi0|1 Iewqfns	connexion. laverms	NONE
+	considered canite	NONE
+OOHSIIUO- h\'|f0d`3>	construc- hutbory	NONE
+C0|`l;l'3l'yCl-`Ir;i4q	contrary comisks	NONE
+. @`amgCgillveylrg	conveying eading	NONE
+wrmowmezggrr	conxicen exist-	NONE
+¢>°<xuiS-Seen	coquis seem	NONE
+	coravidg wages.	NONE
+cvmews Rhe	corclews she	NONE
+mah and	corells and	PARTIAL
+c0lm10e c0"‘¢erl5Dg	corence concerting	NONE
+oDh~s<l° St8hd3l‘d	cornsor standard	NONE
+0°l'ri‘is"lysclf	corphis myself.	NONE
+¢°"1v°‘i minimum	corrooti minimum	PARTIAL
+°°“1P‘i'\sBf=Hv1<=e	corrupting Beffence	NONE
+0fi&tii‘S	cotatins step	NONE
+couchée www	couchee ponoutow	NONE
+w0hlD*1rx Stl-Qbshgd	couhman stretched	NONE
+Clluld dauiidi	could chamidi	NONE
+ouulivdhnxel	could whamel	NONE
+oouldé t1a¢»la‘IlBr]	coulde rezurned	NONE
+er1~¥»it‘=\xw~	counitsu beeo-	NONE
+¢0Ir111't00lll'5@,	countort couse,	NONE
+60113195 Rnd	coupred and	NONE
+ww” sooner	cousem sooner	PARTIAL
+wuswnoO<:mber	cousemo October	NONE
+Go\1tYlmghu.	couthung her	NONE
+wvnen which	coviled which	PARTIAL
+65835  	craideb assigned	NONE
+d'@2W-*\! Wrdh	creatchl Wrath	NONE
+ul E ` Geri	crepskyr cers	NONE
+a'i&p1°& ,QI/owed	crieploa followed	NONE
+cfihialwl	crinitat tctf	NONE
+cfiW”1¥ §_kercl1&S	crisdang sketches	NONE
+cdlbovqsubciled	culbouq subtitled	NONE
+amicus, JC' 	curious, josped	NONE
+lllfrent. mmmae	current. mannere	NONE
+auxmin \11lid‘°y	curtain unticky	NONE
+wsds Refflncavo	cusels Reconcavo	NONE
+wstnem Mew”	custogra interests.	NONE
+¢*“u:WW(’£I'€	daugby were	NONE
+<z¢=\1~n1m Blimish	dearmse British	NONE
+Decerrber‘f‘“““"°	December inuarned	NONE
+	declararen prodical	NONE
+5@¢U£Bl3l¢d1	dectues taken	NONE
+d€¥Sa¢€b90a1159	densace because	NONE
+ln' 531135	Der ifitic	NONE
+demon Garnier	dercoo Garnier	PARTIAL
+deliflk FAMILY	derink FAMILY	PARTIAL
+d¢&m1><=, rwa-Ie	describe, revale	NONE
+ékaseribecl naman	described leatione	NONE
+dwerare anfmme	desperate accourne	NONE
+<*=*=f~v/-1	destinyin scomprec	NONE
+détflfné #mai	detourne applai	NONE
+<1¢*u=vHS<>n¢	detuana some	NONE
+diandal Wharfleld.	diandal Wharfield,	PARTIAL
+dxandwv #Nady	diandow already	NONE
+dhfgi avail	didigi even	NONE
+	difficult denotern	NONE
+¥wi<~=IB‘9“P	dini perste	NONE
+di\\im1‘ll‘ltg¢2	diniturt nega	NONE
+Drne'l'9¢0&39%	Dinnet excesses	NONE
+Gi5'30Wll?Gémfd	discowde Gerard	NONE
+disw1\i°°~mP‘	diseard camps.	NONE
+d3S1\2‘5% for	disress for	PARTIAL
+dimids ¢1sx1¢u»	distracts onsnew	NONE
+	disua identity	NONE
+5&;ric Rnd	dituric and	NONE
+docmne mm	doctrine wayhts	NONE
+dvevwsmernbers	doevils members	NONE
+rvwenev dioewa	dowener diocese.	NONE
+G{9~I\62~d use	dranead use	PARTIAL
+arevannsvai	drevanns was	NONE
+GFQKYIU Rélnove	drezinci Remove	NONE
+druii  	dructi suspen	NONE
+414' wvv.-#is	dug waysols	NONE
+wmvawxm,	dwommack have	NONE
+Girl* -;fu1,,-'ed	each Tuaded	NONE
+@fliJWx\lan¢|	Eaddown (and	NONE
+aadrrmeclemcd	eadmine elected.	NONE
+6"“nd Slnlrifh.	eaend suntrina.	NONE
+ed-Se16\sPw*	easersis pres	NONE
+e0fQ$l-St which	ectedUst which	PARTIAL
+4% avid	efegil acid	NONE
+elfedf. whusts	effect, rofbusts	NONE
+mem. selwis	effects, senteris	NONE
+““l| 5°irf¢y	eht joirmy	NONE
+*Fniredm	eht miretim	NONE
+eiene derhmnw.	eirene departure.	NONE
+emi~ agmsigh	emir aguisigh	NONE
+¢ne@a»= vlmoflh	enced' wistorth	NONE
+Qnexpeft thUS	enexpent thus	NONE
+B1tQUV“E.' BQERT	enteryug ROBERT	NONE
+°‘h`éSQ D0ric	entreiss Doric	NONE
+miifodbsgki	entrodus 21S	NONE
+1@¥>bwP=11f»1h\nt	Episcopal rubunt	NONE
+elkodeaadeéa	episode addega	NONE
+et'Goe¢t BG!	ercoect son	NONE
+'€I'i$l'6dT18mr	eris rednator	NONE
+ernaxagle eviderwe,	ernangle evidence,	NONE
+	ernity Livonian	NONE
+a,nY¢‘i@<=“*	etiecon any	NONE
+€“l’df1@ Uliniom	eurche opinion,	NONE
+even t ti'	even terriels	PARTIAL
+wer @‘ClRfl3-PB	ever packmane	NONE
+EYHIETI P35959	everett ressoney	NONE
+W°'““"t@ RELIGIOUS	evessate RELIGIOUS	PARTIAL
+MW”  	evightm that	NONE
+mskiékniii	evils leignint	NONE
+Whfs River	evisps River	PARTIAL
+evfldermwlhudm	evoldens collection	NONE
+@<<>fri@m°du-#al	example moduston	NONE
+ameri Paeiiic	excent Pacific	NONE
+eXQul9¥'neW	exculav flew	NONE
+exthfy *fought	exfory brought	NONE
+edidow qllildiy	exhidow qniddity	NONE
+nmviklP)d($1'\3	exicans traveling	NONE
+e1`i.9f5'd3H"el‘	exists. custater	NONE
+0€Ui?1‘lm;d	exprier arranged	NONE
+fans s¢'n¢9c	face sermax	NONE
+fflfl/’lf5 wwwly	facere, covatily	NONE
+fm ""'f°°	fact scured	NONE
+fact rniedmit	fact. matedmit	NONE
+f3°ll¢'eSD!ltJV	facures Derby	NONE
+fairsfmgesl	fairs tregest	NONE
+	faixabli Procope	NONE
+fanatics nrfzries	fanatics maries	PARTIAL
+fallbelih °"°‘”d°d	fanbehra exceeded	NONE
+fH1‘in6'@<nse	faringe case	NONE
+falmine. effwvvb	farming efferno	NONE
+|%\rd1Hse¢’=in1°s	farther sectimas	NONE
+fa\"=f°f*¥> Ad:	faversup Acts	NONE
+fuvofii I139DiZ»h'	favorit meniely	NONE
+f¢*==1¢& Man’	feachest Mary	NONE
+gemvoe Familv	Feampe Family	NONE
+83611638 svvernea	fecipage governed	NONE
+felidvll begng	felidiai being	NONE
+£61525 Guibdi	fersted Guibert	NONE
+F€h1?1‘12ilSs	Fetria nails;	NONE
+flmll mmf:	fhall dortati	NONE
+xifabno exrendon	ficabno extension	NONE
+f\h1pf-Spikes	fimpts prifoners	NONE
+	Financial nliter	NONE
+51-35 unl11j1I23l`5’	firils unmilitary	NONE
+fisréliif-fi	first Skinvil	NONE
+First sW*=aef‘1s	First sweasins	PARTIAL
+fi3Il01`S1;a_ki;g	fismors taking	NONE
+i\fhr»1°l‘U!~11ll!ll	fithop FULMER	NONE
+rxatrfnmsclmrw	flatmens change	NONE
+Flewlfh Um	Fleculth once	NONE
+Homage 1313	floaxage 131;	NONE
+noehefw inf]ic|;	flocheas inflict	NONE
+www#	flufrained seamusto	NONE
+fllwxsmnndl	flusans much	NONE
+Ffmen aiwvi	Follen atereci	NONE
+fume In 	fome bildect	NONE
+tU!t`1a»'=Sm,m_,’	foniats arms,	NONE
+forqggq, gtewgn	foretoki, clerven	NONE
+fl`rf11\ the	forful the	PARTIAL
+lwffhelbo UIWWYIWTI	Formanso manunum	NONE
+formation. wmff-Y	formation. launity	PARTIAL
+forwig- Olumnt	fortvig currant	NONE
+I 1 <l1i'|¢Y~	fotersoh quirky,	NONE
+fl7llll75» }{4t®<1	francs, kateled	NONE
+ffilpafiq smmie	frapatin surrender	NONE
+frarenie Novernben	fratenic November	NONE
+Fmlltfd light	Fratuded light	PARTIAL
+&'esl'l WTi:2;nCrn	fresh Wricknam	NONE
+frH1¢¢B'239	frethedy 239	NONE
+fiom Gvtwd	from cursed	NONE
+from mwpem	from dropera	PARTIAL
+FROM n¢’&a¢€2I	FROM noyeacei	PARTIAL
+f+owPl°n@1"=l	from Ploperd	NONE
+fromC1\f‘1~rf‘*\	from quirma	NONE
+FROM whwi	FROM thinked	PARTIAL
+from maj!!	from tuam	PARTIAL
+front owxvify	front clarvity	PARTIAL
+fnlstgmfeag1H1KEl	frustrate, greturel	NONE
+hilqdmaom	fullophe one	NONE
+l’l1fb@Q' szarzléd	furbeady startled	NONE
+fu"S91`Si\06	furgar since	NONE
+f M1412	future dumstuts	NONE
+gfllabh cunmlly	galable currently	NONE
+gairuigtlq; d0<iTirK’§s	gamincon doctrines	NONE
+eemwma whigh	gamposed which	NONE
+gareval éiifaiilt	gareval straint	PARTIAL
+9¢“¢f’"!’t¢"$1ii	generally tonstria	NONE
+ge“°fYP“- saver!	genotypes. savert	NONE
+gatgse “l¢‘CPS§"}'	gentese ''necessary	NONE
+sera# R,;¢h	geritia Rich	NONE
+G¢rvarer»0wr-It	Gervase noestrit	NONE
+9“fludF¢‘&1i|:-1	getmdjte relitst	NONE
+G,DEONaburid3	GIDEON suburidd	NONE
+gisuast dmtyly,	gistlast dactyly,	NONE
+sbalfhua	glealm uel	NONE
+alyww bfredi	Glycine boteed	NONE
+§0ini€'S Fijppl	goinies Foppl	NONE
+175“M”	goirsout 175	NONE
+	goiwe, bationit	NONE
+gonC manenrep	gone momenten	NONE
+30013 59~Ae1}`	good sakely	NONE
+S°0d~:ene1ib	good venento	NONE
+gC'V€rfKI5;u)¢t	governor sunott	NONE
+mm w;;§	gracrati was	NONE
+ kE	grannews lots	NONE
+Gmnt\1'Y>@f‘°	Grant unbeto	NONE
+g<r'=niU<»’P“’°°	gremitio space,	NONE
+Gfffllville QQBHS	Grenville usenans	NONE
+5` &ll lui,	gressasm lui,	PARTIAL
+Gfwfl though	Grocust through	NONE
+sfahxist “Crum	grompist norum	NONE
+5r°“”d» cvanziw	ground, chanzier	NONE
+gw-mfvne doubtful	guerrupe doubtful	PARTIAL
+g“\v1¢“@=~md	guidelle and	NONE
+h3_d¢9hw\m	had calawled	NONE
+hmcdmtasr	haec deptagr	NONE
+hwrefinstjll	haerefin still	NONE
+\  ~ .mtzzs	hambalds critics	NONE
+hanmbeme dl-’qj\‘e	hambehie deceive	NONE
+xwwrrmwmlly	hanymp actually	NONE
+	harnecos 23;56	NONE
+lwwai iilleei	harvest fidlessi	NONE
+hoslialvalb	has plarnalo	NONE
+have Hheigt	have ableist	PARTIAL
+havuwfo llllkllffwll	havowfo unknown	NONE
+	hear, Litinatu	NONE
+hearfdesxnea	heart desinea	NONE
+Here cvlltwlss	Here couttaks	PARTIAL
+b@1u¢=><'sS0rs	hergeas sors	NONE
+l1ilu1SrI1€di1I1	hikons median	NONE
+llilliefw l’l3fI'3fiIl	hillieny narracion	NONE
+hilhfdf, “Oval	himfelf, propal	NONE
+N591 fo1'Wa1Ilf1d	hinial forwarded	NONE
+Hi-my nvfhaiiie	History mattence	NONE
+h0Cl§6`g1~'I`€sf-	hodgergy rest	NONE
+b0”lim0)lr lvwlracom	hominum' Marracom	NONE
+H““8f' orldlyml	Hongu ondlynaj	NONE
+I-I°Dr¢3S 779;	Hooreas 779;	PARTIAL
+H773 vffls	horlse WEK	NONE
+homage Cirda	horseye circa	NONE
+b°SB.i|1l"hr	hosairtur hir	NONE
+	HOUTINGS freec	NONE
+holxwqsfaa	houtwors fact	NONE
+np @mn¢13`	hp emptly	NONE
+'r0€~'h9"°s irilrncnfe	hughaws immenfe	NONE
+lauml'hlh~liQ_ U	humblet larger	NONE
+nrgds "‘*1')'	hygols very	NONE
+Hynverwlcs DMI”-¢_h	Hymenotes pakerth	NONE
+mwsmwh	hypoxia. sprupic	NONE
+IS4» al‘1ie°U	I54 aldjecd	NONE
+Dalilxixsfg an	iceberg enollat	NONE
+  vitge	idziritadi vitzge	NONE
+i£f\xndsPAP|u,ARv	ifffuncts PAPILLARY	NONE
+wzeuaav	ije. rettary	NONE
+ibvooil fuppdf	ilwood fuppofe,	NONE
+imarxdas WWI;	imanders work	NONE
+ia‘Ibd!35~ you	imbetely you	PARTIAL
+irnewa svldiem	imeted soldiers	NONE
+Imi§~»fnpbod<	Imigamp book	NONE
+iF11p1l€n*§r'n'|()l13	imphenry There	NONE
+V’aI\d1e AND	inanche AND	PARTIAL
+i1'lHll6DCe Ummm	influence borarth	NONE
+iuformwl °‘a‘°“`”'d"	informed clawatin	NONE
+inftauces rwdrin	inftances roydrin	NONE
+insswan Pfefawe	ingswan Preface	NONE
+iplugxm 1990	inkrano 1990	PARTIAL
+ir2°°r1f°l= may	inoeprec may	PARTIAL
+anmns wi(-atffd	insuns inculcated	NONE
+intmdizt hmm	interdict hurients	NONE
+iftiqini EWQFIMI	intionof conceptual	NONE
+invrxelillb }*1Qh€d	inveterate jached	NONE
+102 ¢¢ng‘3,	IO2 canery	NONE
+102 Oinarl	IO2 oicarl	NONE
+_ .mbalsajr	irruption housair	NONE
+iS€V%9De3re	isevespe are	NONE
+Is*la5\‘m from	Istrashm from	PARTIAL
+ftal- if"DD°k1	ital. icappold	NONE
+i\i11ansl984-	itionans 1984,	NONE
+	jactor anceftral	NONE
+.jnltindl h¢h£m5	Journal nehesbus	NONE
+;i\»‘3~hx9~3 |1'a|1;fer`	juatuati transfer'	NONE
+W?	judge Publot	NONE
+l~Ei\S|0o¢@	Julian glocce	NONE
+junhuysPaa¢	junitlys Page	NONE
+f‘"atusbG]['[&	juratus bourneib	NONE
+jfilswlltim	jurstall the	NONE
+3¢§Si6“l4‘d£P9O	jussight supideO	NONE
+kdhff °°"“”“’“	kalter comenurn	NONE
+lw~11¢1"Hffw	kanura few	NONE
+Ken¢z"*f=»"°	Kent gritand	NONE
+wa?Kiel;	kilebt way.	NONE
+thing'“ef”	knefits thing.	NONE
+Tmiili /oh;	kniqui John	NONE
+kfvx.-Jew 5°h0°|	knocley School	NONE
+145053 thc	knodis the	NONE
+k=1‘>1‘i‘1 col.	knortin col.	PARTIAL
+	kohlto ing	NONE
+Kqitsr temporal	Kolity temporal	PARTIAL
+K-Poyle Study	kroyle study	NONE
+tllurneeru	L'J uncestu	NONE
+IJi\\i5Q ornad-	Lablide contact.	NONE
+Bhbsts Creek	lablusts Greek	NONE
+I9-WZIEW been	lantlers been	PARTIAL
+l2x<c\vPdrY	lartly policy	NONE
+“QW from	lateling from	PARTIAL
+lath1oP d""*¥""~S	Lathrop dwaynes	NONE
+mum Cnmm	laticts CAREER	NONE
+Lhmlwfsww	Latium darguots	NONE
+luwsrhazt	law subent	NONE
+k3di\gbC*fh68Q	leading bothage	NONE
+lclslvlllwared	least Alumared	NONE
+leemrvaclaff*	lecture aciater	NONE
+msec? for	legeed for	PARTIAL
+	Lexington perstre	NONE
+]'}3l‘f03t iynpm-(ant	Licarrox important	NONE
+li‘E'1I°SSmr	ligures Star	NONE
+Iiflwl D/my	limpal Typology	NONE
+linfgp,” hm	linfavy but	NONE
+liémnlre #HWS	literature inrobs	NONE
+liveJ¢1‘1~ Emvmn	livelerr EDWARD	NONE
+l1Yan1‘1""”PV	lizatild atnaltA	NONE
+OHIFBU	loab craliced	NONE
+Wade” qontinlm	loadely continue	NONE
+V°f¥if‘»h5stS-	lodish fists,	NONE
+loft! kB\"a.lIm	lofty kenalum	NONE
+lggfgn hElVe	logren have	NONE
+vnigmlmm	lomisto leaft;	NONE
+“Ili UHz~a\y	lonti bardly	NONE
+lnolrflmlwfw	look contany	NONE
+I0'#’0i69~h uw	lovoicap the	NONE
+l0“sb°k rule	lowsbok rule	PARTIAL
+Pas”Lu¢§'	Lucy persuit	NONE
+l\1‘?aS*S0uc.	ludasts out.	NONE
+ll'I1=1?»‘C policy	lumeac policy	PARTIAL
+llJ1l\niS£ SUVQTIIUWII	luninist government	NONE
+V-¥l"\i€ thg	lurlie the	NONE
+lxxxv,<x1frax\iSCn	lxxxv, commison	NONE
+‘Y U rlwhlbfl	maburs rushed	NONE
+r¥lii1FJ.V&!i1Sid¢l`Gd	maillby considered	NONE
+nv1isri¢1gd»fhwlt"	maisting difficult	NONE
+majorsevenfa	major seventa	NONE
+MM@ 	MAKE stacarme	NONE
+mmm	malsitt acts	NONE
+nwuzm °Uf1`e11¢y,	manterri currency,	NONE
+1/IANYYFIUN	Many prolony	NONE
+rf@I\1£31cSCh0\21fS	mardeat scholars	NONE
+lVIargfCfha112|;;»ri!;y	Margretha Raterity	NONE
+marfiageafzds	marriage alizets	NONE
+772£l77‘i5lQ2b%3Il	marriage blzeran	NONE
+Massdffe Cites	Massacre cittes	NONE
+marishm6CI;	matichin 6OI;	NONE
+bznwmanaent	mats mancent	NONE
+nu? ladawd	may ladated	NONE
+means WM	means semanoe	PARTIAL
+lnef11berSl1iu p\&e8l\	membership pleteall	NONE
+uvnavirr o’<=lock	mendnitt o'clock	NONE
+2\I5'@f|U\'-¢|`*fllI.i9'.	Menfanot treaties,	NONE
+mercli’ S 1 aec	mercly stiondec	NONE
+Wim fhmfub	Midapt cheerfully	NONE
+lllfd/70' advéds	midbar cowelds	NONE
+unxmzi, Hot.	milanzic not.	NONE
+uirlaslw claxxiika	minasky classifica	NONE
+Whtfiié COW'S	minthbe cows	NONE
+I7iSid° mdo)	misido mdol	NONE
+miwlyaliwlxi	missed yankelli	NONE
+	mitagh committee	NONE
+111560-'S me	mitious the	NONE
+1lU1\vv'=\r1nfia	mn wontinda	NONE
+nP<ttt0h 135;	moctron 135;	PARTIAL
+Tfwfflf7ll8»dWQf%	modern ladwarce	NONE
+rI10d¢"\ Savquzh	modern savothan	NONE
+xn0g0i"°e d1&`4,IJC(5	mogoince chance	NONE
+rr‘0m'i\‘e	monrive grate	NONE
+m@ral‘é"11@“	moral ganett	NONE
+lDfl't8|~3_ex5oC	mortars. exisoc	NONE
+Biqidg &31'\V(rUL	motiots earworm,	NONE
+l11q..lS5E§§'Q-ml	mousses, shondod	NONE
+rwvveiie Ippgi	moweiste Ippei	NONE
+"‘“"h<>11m1@n	much cherchen	NONE
+U'f~1l'0q` tllllsfvlld	muroor thousand	NONE
+lviuséeawnvnr	musee aconvot	NONE
+n1uQ¢in;lhcu	mutheint men	NONE
+mmm. “M”	mystery. cotene	NONE
+hadxdr Come	nachor conse	NONE
+n2corNeE¢|\i	nacoove Equi	NONE
+diasflln	nal chascup	NONE
+inning,-"?‘ir¢‘S	naming Pareis	NONE
+IfiX#-’Qd90l'I.i0|l.	nanace abortion,	NONE
+rvrllam"dsdl	narmenti misal	NONE
+.b¥°\>"¥ rea|i1C	Narpars realize	NONE
+r»¢2~u<h secured	ncrods secured	PARTIAL
+1215? 3C°0l'|‘l7|&\	nellow accomplish	NONE
+news alilnvve	news aunnove	PARTIAL
+mwspapvnanmwe	newspaper, annutme	NONE
+ney avmell	ney aveneli	PARTIAL
+“true ¢1D1>loy°f1	nffile employed	NONE
+I\1iiov'1wl1=	Nino putolls	NONE
+nmmge Offober	ninvinge October	NONE
+“Refi	nited eppked	NONE
+rf°1=\edDi~f'f‘	Nobled Djuna	NONE
+l‘1&irliZ	non nainiz	NONE
+“U” uonemu	none lioneend	NONE
+n0u,;&-i’ldU$l'i¢S	noower industries	NONE
+U.\'\ifS	not bylits	NONE
+]7€<iiIfU:	not Dedinat	NONE
+not 12h\5e	not lehide	PARTIAL
+nor. I°E¥’"*°=	not, reepmes	NONE
+N015 1211002	NOTES choutz	NONE
+nd-1hi¢Q’fS9Ul`et2\1`y	noubjeck Secretary	NONE
+nlfwim Hndvr	nummin under	NONE
+r1“m0dyFio@	numody Alice	NONE
+owasivm jvhard	occasion, johard	NONE
+odvaetilhird	octveret third	NONE
+Ufiiwr. ad3udSo	officer, adjudso	NONE
+066'5“f=f‘°"	Ois' grefter	NONE
+OLAFFMD’	OLAF Bouttv	NONE
+Q1Gli1Jl¢efl	onc. bouteed	NONE
+“swam	one shordion	NONE
+0Nrog'0ur0G	ONTO goured	NONE
+bP"f1@ Ifrdiet	operations paroket	NONE
+0De4‘*i iummbly	operti invariably	NONE
+bfkff M®8&t31	orker Monadity	NONE
+olketh Archiws	orketh Archives	NONE
+orllhocbx cvlnda	orthodox ciancia	NONE
+Qferlfinw	otente into	NONE
+other-afiwii	other stioniti	NONE
+0l|1erS~5i‘1fi¢S¥	others. saticast	NONE
+	otherwife rabeemon	NONE
+0vmd1lFru:l	oundettl Fred	NONE
+Yiesfie	our piestrie	NONE
+r¢uu2-it	our requsit	NONE
+ov1arm»:E<1~»="	ouratenc E	NONE
+Pmfket wt'	packet tionspe	NONE
+Pmgsidnn	packing sidina	NONE
+Padmitle for	Padmitle for	COMPLETE
+prmrddl IUWBSS	paeaded lowless	NONE
+pcbejd afdir	parejd al-dar	NONE
+Da¢'&mPh1Wbd¥	paremptu What	NONE
+Pmwnlli	parizent not	NONE
+PmséhaI\imPhe	passe hanimphe	NONE
+Patent mama	Patent Covilita	PARTIAL
+palroilhpiunv	patroym 'phony	NONE
+PAUL f6®d'\2.	PAUL fessiona.	PARTIAL
+hdhpsmintenw	payapsto intense	NONE
+vmwbly mum	peaccably maryter	NONE
+Pefllliinr i	peculiar Homall	NONE
+P°<1i°@'=’~au¢i¢v	pedicels, abcity	NONE
+P€fe€fl: Griibner	pefeene Grobner	NONE
+p@f»aIfv)mw,	penalty) fultan	NONE
+2‘=QPl¢ a»'1m,e,~S	people awarters	NONE
+P°°P*”hatnm	peoples hortmes	NONE
+nw-°rnil'k(li|IiolB	permfork (billions	NONE
+9¢\'n0|'l	perron	NONE
+P*‘°°°sf‘PhQg;np;x&-	photograph comprog	NONE
+141:pings	picers 141;	NONE
+,,m¢.,.,,|'“a'“’gers	pienteum lmanagers	NONE
+PENS facilitate	piettog facilitate	PARTIAL
+pm” much	pitncre much	PARTIAL
+Plum ?"`\e|5'¢	placc. prnetie	NONE
+P\ahifl` Qwnwmpv	plaintiff Emphimph	NONE
+Phwduammn	played crasitom	NONE
+vWfr1P\s' Nfmolvrmu	playmphly Napoleon	NONE
+Pleumre; lrbvelw	pleasures buovelve	NONE
+f*°i°` Dm»Anr>1m."1'	plofer DEPARTMENT	NONE
+pagina process	pocize process	PARTIAL
+p°ir|12~l>m1d	poinlay and	NONE
+policy waceiw	policy seecessu	PARTIAL
+P0\icy,er§o`n	policy, ension	NONE
+Pdinfkl	polinds algebras	NONE
+PK'~'\U“G Wevrnin	PREACHING iremin	NONE
+Dreferazbly dmedle	preferably derseque	NONE
+;;e&°0fJ>hiB	preffory his	NONE
+v@i<=fH16oO»	prejessi 1600.	NONE
+xremilre ,5,,,g,,,,	prequire disagrees	NONE
+pfieffhe 105	priefthe 106	NONE
+m~m,¢.- wma--y	prinuti machinery	NONE
+l1'iteS imlI1§1-i	prites ziaagia	NONE
+	prittic and	NONE
+privikge wavillh	privilege wavilin	NONE
+Xlizfh mudl	prizzle much	NONE
+Wilafs tl-D380	problems runago	NONE
+|2'°‘>|¢¥“513‘%ri°Q	problems therjce	NONE
+PLOOCSS 6051.9-gg	process doorons	NONE
+_~g>r0¢1e;.Vw	procler you	NONE
+	prodynas 542,	NONE
+P"0Bfammes wmae	programmes curede	NONE
+*‘““"*‘* Andrew	promely Andrew	PARTIAL
+r>f°==¢1f°f-1‘“°d5'=	protection kliedge	NONE
+I-1"ll\'l“|f defence	prounalf defence	PARTIAL
+pfwmtlrnuinsrer	prountur minster	NONE
+P£YX|r1l=i hqfn	Prourlet from	NONE
+"‘°‘*““ mwae	provider thentre	NONE
+  \gWdiY‘%,	provision lowdirca	NONE
+Pf‘°"d’i§ dlarader	proydrig character	NONE
+11"`*Jfimu»<=	proyinc the	NONE
+Pl'l|s0~¢.i¥l*?	pru souting	NONE
+wanshrrlacw	puranshr places	NONE
+Pwdm for	purchn for	PARTIAL
+P-“h¢‘="e\¢’	purnats rights	NONE
+I1”P0“°Swhqfrr	purposes whoustr	NONE
+IllldlfiY0u're	pxkton you're	NONE
+qUf=lbUQ U§\!rpg,ti0u	quabbes Usurpation	NONE
+qllence l='a1\w'ne	quence Panowne	NONE
+Quégé I-I¢&fBc	Querge Heauffec	NONE
+l1“‘~¥M5°It 0!\Qg,95	question onated	NONE
+quick d|»9D0S`l	quick dupposh	PARTIAL
+1-a°esdh1ufh¢nh1g	racestim offsetting	NONE
+“ae“mat	raf tunfint	NONE
+raw:-"\1I\flg Maewlby	raguling Macnulty	NONE
+ra-ir@e 3555	rairee 356;	NONE
+raised wvmans	raised wootans	PARTIAL
+5,3(¢m Pdtifliillilfilt	raloffen attachment	NONE
+@3"3v01|Un,	Raone vollum	NONE
+1=\z>mwx»f|,¢	rapphaun the	NONE
+#Hal w71.1f/270,	ravelent which,	NONE
+£Qdlba¢\m»f-=iz	Rdl bannagiz	NONE
+re&d@C in'	readefic for	NONE
+r¢=:{0“ Sf1‘*16“1	reafon straugm	NONE
+_ if1‘*f“1H3117	reality inernal	NONE
+w@¢e¢ia h\\1~.l‘¢l	rearecia hurd'd	NONE
+Y°‘i&U‘5U'3lSf=VQ	reason; trauseve	NONE
+Pf>¢“'1P"“" Maw	recompense voneter	NONE
+reeffim dmire	rectrion desire	NONE
+rlidafligdfx	redani mdex	NONE
+Refwcmuvfr	Reflec torthdr	NONE
+rd-wed, fra-yeled	reflected, frayeled	NONE
+¢qu_t¢¢ tl'$diii°ll$	refutut traditions	NONE
+1‘¢EB§-Pg	regesarg other	NONE
+I'¢|3»If\¥5B`_gs	relaneve Blues	NONE
+felalio0S. l¢Wif'&‘	relations. newing	NONE
+remarks,Bem>@	remarks, Benice	NONE
+refhwflume	remestru the	NONE
+r\‘fh<»"\¢-Yew'	remoun excur	NONE
+rgmU@a[, Y1QI£	removal' nothan	NONE
+I-»f'\~1l¢a ¥l.d¢1ltxJfEd	renntoe admounad	NONE
+“PVC Z°ve¢'€§	repre zovered	NONE
+1’G\1l1iS3°», www	requisite, switinal	NONE
+r<&d<:'K3Z‘,K&d|5	residence, keets	NONE
+resnayef Elks	respayer raid,	NONE
+1'c3P63t wufia	respect innturia	NONE
+f‘§J0°tw¢%t£§-	respect westeer	NONE
+fesbond BUJPUIBD	respond aturtman	NONE
+(33593 lrmfrrlffll	restras treatment	NONE
+Y!!!-5.033921591-	rests, caleaser	NONE
+R¢1`lJl5IB light	Retordne light	PARTIAL
+return, I	return, Panslrof	PARTIAL
+xvmmklléf	revereuk 216,	NONE
+revivewl dere-XY	revival deraly	NONE
+fi¢m'¢lv im'	ricattly flst'	NONE
+mas 2251	ricirs 22;31	NONE
+den# nnpelfwn	rielps imperfect	NONE
+I ggi : ungh	riggist might	NONE
+rilxirlk »,,h¢¢	rinting interest,	NONE
+River olfwuffr	River plasquer	PARTIAL
+f0ckS lzaruw	rocks Remonsio	NONE
+vluici P0\\'efs	rohetici powers	NONE
+rQieo'=Hnd	rojece and	NONE
+role zpirrevvms	role Dinewors	PARTIAL
+rvilzaiwaspeet	ronzater aspect	NONE
+ROOM ]_iQve1‘&	ROOM liewera	PARTIAL
+'faVgmnew	rov sannew	NONE
+wwrmea Commfiun	rowitned convention	NONE
+rawsvee fbilowefl.	rowskee followed,	NONE
+Tile o¢\St;gu	rule onstigro	NONE
+www: iuvcsfi	rusevent investi	NONE
+www cgniimous	rusudery continuous	NONE
+tl‘al5-l'f“0‘5‘h	rutookh trals.	NONE
+rv‘f0u*-hr Species	rutouthr species	NONE
+il \'m5§JAc|\1	sacquil was	NONE
+¢ili}¢Q C0ml1'|e|`l	sailike commen	NONE
+'é31i'¢i-13 2J1Ti\f0<`1	salingib arrived	NONE
+jjmgg, f!'Q}1§)Cl`	saman, frappor	NONE
+Samewmxik	same escrudis	NONE
+same WW,	same nedgech	PARTIAL
+wwvnmbuw	sannanse been	NONE
+59411195 f°"f‘D¢"	sarputio former	NONE
+gavage pt\m3»%	savage. zarmas	NONE
+savagvs, W?"	savages, ainlgral	NONE
+€»°as1i<1Hcrxnann	scailito Hermann	NONE
+Svalmealdes	scanneal des	NONE
+svcgam quinemm.	sccgan, quitemor	NONE
+”°""’°=¢r@adhf	science spreddly	NONE
+somhme awning	scruhnne according	NONE
+901:91 Mdlwfl	scuptln Method	NONE
+S9Fil‘U9~f	searbaf raft	NONE
+S0121-eg-¢1'y S¢DliIKeS	Secretary stodkes	NONE
+1.	sect siblilie	NONE
+B%isill¢VId“Jf	seisin Eviday	NONE
+Seivasanle	sejm ottable	NONE
+SeIsl1ihuN	sel shibure	NONE
+	senifort eventually	NONE
+wmv l<f1Ri\'@h-	sensc kagively	NONE
+se¢1u¢rs and	sequens and	PARTIAL
+SGITD"-Wfhumh	sermon unmilian	NONE
+S&r233D1930	sestrato 1930	NONE
+s¢I1ing&rr\enrlih	settings. mennih	NONE
+*uk 1¥'h1v@v	settle Brinves	NONE
+smlasroffe	shall agroffe	NONE
+avi:-(K\0t blliinwi,	sharmot business,	NONE
+	sheavess aquisi-	NONE
+Shenmn mism-	Sherman unithiry	NONE
+SX“Nfi“€&la0	shewing also	NONE
+s¥1iu1€\\ BHK’	shinnal gzugs	NONE
+Shake in‘*US€“€	Shoka impseng	NONE
+sh°ni1\I65	shonion I65;	NONE
+shnw glad:	Sialko glad;	NONE
+siflzdias rmiof	siandiss major	NONE
+Sif=lIsH` hunsei	siatter houses	NONE
+‘Z5DeIS	sicels non	NONE
+sig S advmwe	sigereas advance	NONE
+Silenfsneud	Silent snellet	NONE
+	similar kianies	NONE
+#.4i2tn11e	slictime om'	NONE
+emmost bdicwsd	smitost believed	NONE
+srmudliany	smobelli any	NONE
+sw;-wmv *Wyse	smythay Mayse	NONE
+S0<:iety5pi;es	Society spieres	NONE
+Somepfrbvlb	some porbolly	NONE
+sfrrolhsiécb	sonollo siecle	NONE
+sonownsg CW#	sonowase George	NONE
+IorI'0°&si‘1e	sor rnossidg	NONE
+SP°°ilIla\8 011-r°|"l‘B;~||;	specimens ouromant	NONE
+  whrlfllf	spirit'' carmint	NONE
+	spiritual Lospir	NONE
+Si-‘0rV3G objwfa	sporled objects.	NONE
+v5g1ffS"°°““‘	spossm Vogler	NONE
+Sfniwli 247	squited 247	PARTIAL
+Stance ,	stance mingrote	NONE
+Rtvr Justice	Stiour Justica	NONE
+Swv bi°l0zY»	stolor biology,	NONE
+sr°PPed “mb”	stopped antabroy	NONE
+Swwdme U16	stowmane the	NONE
+waoaw °°°°'°P“"1y	stracary accompany	NONE
+sawn In	strekin but	NONE
+5il11gQ¢1$|,9.q¢	strug constack	NONE
+§l|T¢-XJanie	stumers Jamie	NONE
+subie¢t Gaxisli	subject canint	NONE
+s0brx0¢ioma§	subnotio mass	NONE
+JTl¢‘f5\' '	success lerven	NONE
+sum” mniaining	sufall containing	NONE
+gtlllfll appar	sumalt appear	NONE
+guhwtq inf*-l€I1°e»	suprota influence,	NONE
+mrwroliff	sur sproliff	NONE
+suzwrrlur	surcur that	NONE
+sunvdi fllrwd	surrecti turned	NONE
+alspgunrmvefu	suspect hescen	NONE
+9Wi11fiea1'f5mg@n	swinsi carcinogen	NONE
+f3h1`\¢¥ gauclle	tabney gauche	NONE
+1' skin.: remoli	Talking recturi	NONE
+tmuksgem	tamarks gentor	NONE
+1121nc0§*fheSs	tance sathess	NONE
+wfinws Sfvripww:	tatineas Scripture	NONE
+tii5v5`i command	tativeri command	PARTIAL
+laxS¢"e\8"1	tax streign	NONE
+fémfff natiuvma	teraire patignma	NONE
+tel`Il'|~e2~\\-:ter	term, eareter	NONE
+w\'h2RJ"lZrlJ,	ternapp mono,	NONE
+12¢Y`IrDe®'WTiIi!'l8=	ternney writing;	NONE
+t¢1l§0I"¥idiSC11s9@tl	tersorti discussed	NONE
+Ybalfitui 406	thardrui 406	PARTIAL
+tbtlf	that troors	NONE
+wafmsia	the afficia	NONE
+lhc¥§lF!¥	the agglisly	NONE
+Tuaaiearbe	THE atearbe	NONE
+the dlmrne	the chourne	PARTIAL
+Glsvoomvrl	the comaud	NONE
+U’\¢Bf“°l‘1®e	the grachese	NONE
+hav’erfT's,r	the havermar	NONE
+;1,ch¢\=verh	the herevede	NONE
+dn P°“m°	the politho	NONE
+thevvluwh	the varcurc	NONE
+their "’e°“’1`°'	their hieparly	PARTIAL
+tl1e11¢S"°‘i=i"g	theires noticing	NONE
+gl-lcmselves r¢\B-rd?-l`|`\	themselves marderil	NONE
+Ihmcmww	then. cantray	NONE
+Thereadrnamh	There admarch	NONE
+aziqor9Clling»	thictor setting,	NONE
+u1f§~,>h®“»\s1wss,	thighaus MSS;	NONE
+ihil`¥»'Ykith€V	thinpy kidney	NONE
+this muzirnge	this cracinge	PARTIAL
+bhgugh ahgera	though absers	NONE
+1‘h,,,,gh gffwtflz	Though grostion	NONE
+fnuansn irwivnd	threaten inationd	NONE
+three thaidih	three thajdith	PARTIAL
+,|-,,wé1 vV&q¥’Q	through waspre	NONE
+tl11‘o\" f¢"`QU"S	throw forclurs	NONE
+111wart ffiixuxsi	thwart folinasi	NONE
+tlwvism syierflfx	thwism systems,	NONE
+u'r11hr0e Guafh	timbroe coaft,	NONE
+Tinafstiww	Time sticaw	NONE
+lime. T°lIs¢°l=	time. Touseve	NONE
+TY-`l\B!“&' tfiggard	Tionamer triggered	NONE
+_ I pf()@	tivett projects.	NONE
+1|-E403 weswl.	tnafni illescar	NONE
+what 8/42	tobeet 842	NONE
+hngwffrslixsi	togeorms first	NONE
+romnau sY¥lthe@ia	toluncul synthesis	NONE
+|5°°l`a-38 Renée	totratis Renee	NONE
+'lmté armaase	traite ancleast	NONE
+:iam-.fer GGBFES	transfer dendres	NONE
+\‘1"~\1r*@8und	trarmes and	NONE
+19-ti0t|‘ Bmal<	tratioti Bartok	NONE
+traversed whwll	traversed colrnan	PARTIAL
+U35 f2~(:(0¥`l	treat facron	NONE
+Uerwtconmctn	trepant conrlicta	NONE
+“W” i‘»‘3f~'flI1mf\	trepler judgment,	NONE
+'1‘rRn#n Deeviq	Tributha Dogmatics	NONE
+uoufax, up0n	troorids upon	NONE
+true millsoffs	true millsons	PARTIAL
+mlruvleleft	trumble left	NONE
+trl1‘rr¢§ lllllglln:	trumerea thousand;	NONE
+mths- =#\hl@&`	truths, seables'	NONE
+'rv|=uq1é1 ilu”	Tupuquen jurcyc	NONE
+lL\f|\OV@|»_ 9’tnt11%	turnover. symnle	NONE
+ug/gf" nviwfix	uggm Raireebt	NONE
+undDUbe*1t	und Dubent	NONE
+fzndrf 00'¥b@\-I	under combeli	NONE
+uflQitJ1i& \’\1Cslr1'h	undiblig Western	NONE
+uneducated 0"‘P-Sai	uneducated conesed	PARTIAL
+UI'1h€9.m“1V SUJUKN	Unhealthy gromps	NONE
+*Haul ffalldis	unuratall frallous	NONE
+rP\1ihP1‘ cmnuel	uphihler channel	NONE
+1111011 mlm"	upon allishi	NONE
+“bon	upon coaros	NONE
+Upon  	upon hipsends	NONE
+"PGH I'0UflE‘!¥\i	upon. rounlemi	NONE
+udamvvalmed	uriatowa loved	NONE
+\¢I’e:0¢fa lp'	vargotta rpt.	NONE
+Vwimu wxmw	Various harany	NONE
+V9~\’t@{‘t\N»¢	varreart later	NONE
+vewenrW~"‘¢f¢‘hi|J	vervent ownership	NONE
+vifhefls phw	videress place	NONE
+'view witailh	view. witailla	NONE
+vl"1\d“> Weekly	vintoto Weekly	PARTIAL
+vi&1d\Sf	visconsf two	NONE
+v1saini11(l`II1S	vistaini norms	NONE
+v0¢als] i	vocals] preano	NONE
+vd 	vol. trokwagu	NONE
+\v’()]16\ 74:1	vollel 741	NONE
+VUSIYQY fine	vostmay fine	PARTIAL
+\'m|s.9f3-Tr9*Q	vous, eatrac	NONE
+wqfts \\9Id4'=t	wafts waroket	NONE
+-"”~§5e'\ love	wagien love	PARTIAL
+v<fa“hf”Hl”¥lIl	wanharg ran	NONE
+wa1~i¢t0r hen	warittor her.	NONE
+\\f3’\l¢'Q	warvertz.	NONE
+wagda-kuper	was clamper	NONE
+wt15Y=-rdv==	was parpluse	NONE
+WHS	was tofiets	NONE
+H/df- b@@I~5i&	was. beersist	NONE
+way 90|0c.4‘-I	way solocal	PARTIAL
+w©lwQo0nHr10	welover confine	NONE
+volume	went volome	NONE
+="‘”‘°‘wfff	wffs stranct	NONE
+	whariech others	NONE
+vnaany wrliident	whialty confident	NONE
+Which wnxonqy	which camonely	NONE
+which ¢11I‘c¥S	which furcies	PARTIAL
+‘”kic\1 arse!!	which sorsoll	NONE
+Which lpuraql	which utionram	NONE
+whinvw ofi`|<i¢»lS	whinpov officials	NONE
+whof defiufm'	who deautor	NONE
+v~vh»>rf_\»’3f	whorty I31	NONE
+\viCkedly 5ff=¥1°9-lk	wickedly staralls	NONE
+Wife Dqan	wife belern	NONE
+wig'-wfoP“°“°	wignatio plastic	NONE
+wim.1z¢e<1f¢SP¢°¢	winalked respect	NONE
+“meh °°°“I’M	winaneh occupy,	NONE
+Wi!!!-1\1`e“fTaI	witake ''flat	NONE
+wifvnfan upon	witypran upon	PARTIAL
+w0‘t1x\ai2b ad@Q\J2le	womnatia adequate	NONE
+War# Wnfal	Work livintal	NONE
+Wnrlcsvwinr	work. suwint	NONE
+wq»1d_ t11'¥1wf1I\	world thiateim	NONE
+W0fld75Sl~efB	world's sorets	NONE
+vwunet am/	wounet and	NONE
+wrar11fulf>°<>n¢=	wrathful scones	NONE
+wvinn1s@	wrimans Lierri	NONE
+mag- rmwnn	writing, flostann	NONE
+Yi]-}u;6|1 65@l@	written exoeitle	NONE
+IIIEO mam	wto flasked	NONE
+wykfmirfhicil	wykcrair which	NONE
+haf manoes	year mances	NONE
+Yfamifkmvades	yearning dwaries	NONE
+B gkmoo	yepperne glance	NONE
+Your N	your cotemb	NONE
+Fm? h2lfGId{Qe	your harokkee	NONE
+)'f5°0é\'S the	yrioners the	PARTIAL
+Whivs greater	zathioe greater	PARTIAL
+?lll‘,i!l"|'l"li	zur jurmuste	NONE
+[h@*lS¢‘f wyxrlv	[her]self laytorly	NONE
+[wmunq-in	[what knowsit	NONE
+
+Out of 1000 had 2 complete matches and 107 partial matches
+
+Complete %:  0.2
+Partial %:  10.7
+
